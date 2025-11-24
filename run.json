@@ -1,0 +1,3840 @@
+[
+  {
+    "Question": "Restart Application Server",
+    "Answer": {
+      "Purpose": "This runbook provides detailed steps to perform the task: Restart Application Server. It ensures operational consistency and minimizes downtime.",
+      "Prerequisites": [
+        "Administrative access to systems",
+        "Network connectivity",
+        "Required tools (SSH, CLI, monitoring dashboards)",
+        "Dependencies verified"
+      ],
+      "Steps": [
+        "Verify current system status using monitoring tools or CLI commands.",
+        "Notify stakeholders about the planned activity and expected impact.",
+        "Execute task-specific commands (e.g., sudo systemctl restart app.service).",
+        "Validate outcome by checking service status, logs, and application accessibility.",
+        "Update incident tracker with details of the operation."
+      ],
+      "ExpectedOutcome": "The task completes successfully without errors. Services remain stable and accessible.",
+      "RollbackPlan": [
+        "If the task fails:",
+        "Revert to previous configuration snapshot or backup.",
+        "Restart dependent services if necessary.",
+        "Escalate to Level 2 support for troubleshooting."
+      ],
+      "Contacts": {
+        "Primary": {
+          "Name": "Sophia Martinez",
+          "Email": "sophia.martinez@example.com",
+          "Phone": "+91-6779822677"
+        },
+        "Escalation": {
+          "Name": "Michael Miller",
+          "Email": "michael.miller@example.com",
+          "Phone": "+91-7773086351"
+        }
+      }
+    }
+  },
+  {
+    "Question": "Patch Linux Server",
+    "Answer": {
+      "Purpose": "This runbook provides detailed steps to perform the task: Patch Linux Server. It ensures operational consistency and minimizes downtime.",
+      "Prerequisites": [
+        "Administrative access to systems",
+        "Network connectivity",
+        "Required tools (SSH, CLI, monitoring dashboards)",
+        "Dependencies verified"
+      ],
+      "Steps": [
+        "Verify current system status using monitoring tools or CLI commands.",
+        "Notify stakeholders about the planned activity and expected impact.",
+        "Execute task-specific commands (e.g., sudo systemctl restart app.service).",
+        "Validate outcome by checking service status, logs, and application accessibility.",
+        "Update incident tracker with details of the operation."
+      ],
+      "ExpectedOutcome": "The task completes successfully without errors. Services remain stable and accessible.",
+      "RollbackPlan": [
+        "If the task fails:",
+        "Revert to previous configuration snapshot or backup.",
+        "Restart dependent services if necessary.",
+        "Escalate to Level 2 support for troubleshooting."
+      ],
+      "Contacts": {
+        "Primary": {
+          "Name": "Daniel Williams",
+          "Email": "daniel.williams@example.com",
+          "Phone": "+91-6477929328"
+        },
+        "Escalation": {
+          "Name": "Emily Brown",
+          "Email": "emily.brown@example.com",
+          "Phone": "+91-6763262030"
+        }
+      }
+    }
+  },
+  {
+    "Question": "Backup Database",
+    "Answer": {
+      "Purpose": "This runbook provides detailed steps to perform the task: Backup Database. It ensures operational consistency and minimizes downtime.",
+      "Prerequisites": [
+        "Administrative access to systems",
+        "Network connectivity",
+        "Required tools (SSH, CLI, monitoring dashboards)",
+        "Dependencies verified"
+      ],
+      "Steps": [
+        "Verify current system status using monitoring tools or CLI commands.",
+        "Notify stakeholders about the planned activity and expected impact.",
+        "Execute task-specific commands (e.g., sudo systemctl restart app.service).",
+        "Validate outcome by checking service status, logs, and application accessibility.",
+        "Update incident tracker with details of the operation."
+      ],
+      "ExpectedOutcome": "The task completes successfully without errors. Services remain stable and accessible.",
+      "RollbackPlan": [
+        "If the task fails:",
+        "Revert to previous configuration snapshot or backup.",
+        "Restart dependent services if necessary.",
+        "Escalate to Level 2 support for troubleshooting."
+      ],
+      "Contacts": {
+        "Primary": {
+          "Name": "Emily Davis",
+          "Email": "emily.davis@example.com",
+          "Phone": "+91-9721121211"
+        },
+        "Escalation": {
+          "Name": "Jane Smith",
+          "Email": "jane.smith@example.com",
+          "Phone": "+91-7343831166"
+        }
+      }
+    }
+  },
+  {
+    "Question": "Restore Database",
+    "Answer": {
+      "Purpose": "This runbook provides detailed steps to perform the task: Restore Database. It ensures operational consistency and minimizes downtime.",
+      "Prerequisites": [
+        "Administrative access to systems",
+        "Network connectivity",
+        "Required tools (SSH, CLI, monitoring dashboards)",
+        "Dependencies verified"
+      ],
+      "Steps": [
+        "Verify current system status using monitoring tools or CLI commands.",
+        "Notify stakeholders about the planned activity and expected impact.",
+        "Execute task-specific commands (e.g., sudo systemctl restart app.service).",
+        "Validate outcome by checking service status, logs, and application accessibility.",
+        "Update incident tracker with details of the operation."
+      ],
+      "ExpectedOutcome": "The task completes successfully without errors. Services remain stable and accessible.",
+      "RollbackPlan": [
+        "If the task fails:",
+        "Revert to previous configuration snapshot or backup.",
+        "Restart dependent services if necessary.",
+        "Escalate to Level 2 support for troubleshooting."
+      ],
+      "Contacts": {
+        "Primary": {
+          "Name": "Sophia Johnson",
+          "Email": "sophia.johnson@example.com",
+          "Phone": "+91-6506298213"
+        },
+        "Escalation": {
+          "Name": "Daniel Johnson",
+          "Email": "daniel.johnson@example.com",
+          "Phone": "+91-7625222752"
+        }
+      }
+    }
+  },
+  {
+    "Question": "Deploy Java Application",
+    "Answer": {
+      "Purpose": "This runbook provides detailed steps to perform the task: Deploy Java Application. It ensures operational consistency and minimizes downtime.",
+      "Prerequisites": [
+        "Administrative access to systems",
+        "Network connectivity",
+        "Required tools (SSH, CLI, monitoring dashboards)",
+        "Dependencies verified"
+      ],
+      "Steps": [
+        "Verify current system status using monitoring tools or CLI commands.",
+        "Notify stakeholders about the planned activity and expected impact.",
+        "Execute task-specific commands (e.g., sudo systemctl restart app.service).",
+        "Validate outcome by checking service status, logs, and application accessibility.",
+        "Update incident tracker with details of the operation."
+      ],
+      "ExpectedOutcome": "The task completes successfully without errors. Services remain stable and accessible.",
+      "RollbackPlan": [
+        "If the task fails:",
+        "Revert to previous configuration snapshot or backup.",
+        "Restart dependent services if necessary.",
+        "Escalate to Level 2 support for troubleshooting."
+      ],
+      "Contacts": {
+        "Primary": {
+          "Name": "Emily Taylor",
+          "Email": "emily.taylor@example.com",
+          "Phone": "+91-7869627205"
+        },
+        "Escalation": {
+          "Name": "Emily Miller",
+          "Email": "emily.miller@example.com",
+          "Phone": "+91-7401481249"
+        }
+      }
+    }
+  },
+  {
+    "Question": "Deploy .NET Application",
+    "Answer": {
+      "Purpose": "This runbook provides detailed steps to perform the task: Deploy .NET Application. It ensures operational consistency and minimizes downtime.",
+      "Prerequisites": [
+        "Administrative access to systems",
+        "Network connectivity",
+        "Required tools (SSH, CLI, monitoring dashboards)",
+        "Dependencies verified"
+      ],
+      "Steps": [
+        "Verify current system status using monitoring tools or CLI commands.",
+        "Notify stakeholders about the planned activity and expected impact.",
+        "Execute task-specific commands (e.g., sudo systemctl restart app.service).",
+        "Validate outcome by checking service status, logs, and application accessibility.",
+        "Update incident tracker with details of the operation."
+      ],
+      "ExpectedOutcome": "The task completes successfully without errors. Services remain stable and accessible.",
+      "RollbackPlan": [
+        "If the task fails:",
+        "Revert to previous configuration snapshot or backup.",
+        "Restart dependent services if necessary.",
+        "Escalate to Level 2 support for troubleshooting."
+      ],
+      "Contacts": {
+        "Primary": {
+          "Name": "Olivia Martinez",
+          "Email": "olivia.martinez@example.com",
+          "Phone": "+91-8965805842"
+        },
+        "Escalation": {
+          "Name": "Robert Johnson",
+          "Email": "robert.johnson@example.com",
+          "Phone": "+91-6229766272"
+        }
+      }
+    }
+  },
+  {
+    "Question": "Configure Load Balancer",
+    "Answer": {
+      "Purpose": "This runbook provides detailed steps to perform the task: Configure Load Balancer. It ensures operational consistency and minimizes downtime.",
+      "Prerequisites": [
+        "Administrative access to systems",
+        "Network connectivity",
+        "Required tools (SSH, CLI, monitoring dashboards)",
+        "Dependencies verified"
+      ],
+      "Steps": [
+        "Verify current system status using monitoring tools or CLI commands.",
+        "Notify stakeholders about the planned activity and expected impact.",
+        "Execute task-specific commands (e.g., sudo systemctl restart app.service).",
+        "Validate outcome by checking service status, logs, and application accessibility.",
+        "Update incident tracker with details of the operation."
+      ],
+      "ExpectedOutcome": "The task completes successfully without errors. Services remain stable and accessible.",
+      "RollbackPlan": [
+        "If the task fails:",
+        "Revert to previous configuration snapshot or backup.",
+        "Restart dependent services if necessary.",
+        "Escalate to Level 2 support for troubleshooting."
+      ],
+      "Contacts": {
+        "Primary": {
+          "Name": "Daniel Garcia",
+          "Email": "daniel.garcia@example.com",
+          "Phone": "+91-6622677343"
+        },
+        "Escalation": {
+          "Name": "Daniel Davis",
+          "Email": "daniel.davis@example.com",
+          "Phone": "+91-9269414334"
+        }
+      }
+    }
+  },
+  {
+    "Question": "Update SSL Certificates",
+    "Answer": {
+      "Purpose": "This runbook provides detailed steps to perform the task: Update SSL Certificates. It ensures operational consistency and minimizes downtime.",
+      "Prerequisites": [
+        "Administrative access to systems",
+        "Network connectivity",
+        "Required tools (SSH, CLI, monitoring dashboards)",
+        "Dependencies verified"
+      ],
+      "Steps": [
+        "Verify current system status using monitoring tools or CLI commands.",
+        "Notify stakeholders about the planned activity and expected impact.",
+        "Execute task-specific commands (e.g., sudo systemctl restart app.service).",
+        "Validate outcome by checking service status, logs, and application accessibility.",
+        "Update incident tracker with details of the operation."
+      ],
+      "ExpectedOutcome": "The task completes successfully without errors. Services remain stable and accessible.",
+      "RollbackPlan": [
+        "If the task fails:",
+        "Revert to previous configuration snapshot or backup.",
+        "Restart dependent services if necessary.",
+        "Escalate to Level 2 support for troubleshooting."
+      ],
+      "Contacts": {
+        "Primary": {
+          "Name": "Michael Davis",
+          "Email": "michael.davis@example.com",
+          "Phone": "+91-9227773231"
+        },
+        "Escalation": {
+          "Name": "Michael Smith",
+          "Email": "michael.smith@example.com",
+          "Phone": "+91-8131589623"
+        }
+      }
+    }
+  },
+  {
+    "Question": "Monitor Server Health",
+    "Answer": {
+      "Purpose": "This runbook provides detailed steps to perform the task: Monitor Server Health. It ensures operational consistency and minimizes downtime.",
+      "Prerequisites": [
+        "Administrative access to systems",
+        "Network connectivity",
+        "Required tools (SSH, CLI, monitoring dashboards)",
+        "Dependencies verified"
+      ],
+      "Steps": [
+        "Verify current system status using monitoring tools or CLI commands.",
+        "Notify stakeholders about the planned activity and expected impact.",
+        "Execute task-specific commands (e.g., sudo systemctl restart app.service).",
+        "Validate outcome by checking service status, logs, and application accessibility.",
+        "Update incident tracker with details of the operation."
+      ],
+      "ExpectedOutcome": "The task completes successfully without errors. Services remain stable and accessible.",
+      "RollbackPlan": [
+        "If the task fails:",
+        "Revert to previous configuration snapshot or backup.",
+        "Restart dependent services if necessary.",
+        "Escalate to Level 2 support for troubleshooting."
+      ],
+      "Contacts": {
+        "Primary": {
+          "Name": "Daniel Miller",
+          "Email": "daniel.miller@example.com",
+          "Phone": "+91-7600599040"
+        },
+        "Escalation": {
+          "Name": "Olivia Johnson",
+          "Email": "olivia.johnson@example.com",
+          "Phone": "+91-8053032342"
+        }
+      }
+    }
+  },
+  {
+    "Question": "Incident Response for High CPU Usage",
+    "Answer": {
+      "Purpose": "This runbook provides detailed steps to perform the task: Incident Response for High CPU Usage. It ensures operational consistency and minimizes downtime.",
+      "Prerequisites": [
+        "Administrative access to systems",
+        "Network connectivity",
+        "Required tools (SSH, CLI, monitoring dashboards)",
+        "Dependencies verified"
+      ],
+      "Steps": [
+        "Verify current system status using monitoring tools or CLI commands.",
+        "Notify stakeholders about the planned activity and expected impact.",
+        "Execute task-specific commands (e.g., sudo systemctl restart app.service).",
+        "Validate outcome by checking service status, logs, and application accessibility.",
+        "Update incident tracker with details of the operation."
+      ],
+      "ExpectedOutcome": "The task completes successfully without errors. Services remain stable and accessible.",
+      "RollbackPlan": [
+        "If the task fails:",
+        "Revert to previous configuration snapshot or backup.",
+        "Restart dependent services if necessary.",
+        "Escalate to Level 2 support for troubleshooting."
+      ],
+      "Contacts": {
+        "Primary": {
+          "Name": "John Johnson",
+          "Email": "john.johnson@example.com",
+          "Phone": "+91-8166398811"
+        },
+        "Escalation": {
+          "Name": "Olivia Miller",
+          "Email": "olivia.miller@example.com",
+          "Phone": "+91-9994647582"
+        }
+      }
+    }
+  },
+  {
+    "Question": "Create AWS EC2 Instance",
+    "Answer": {
+      "Purpose": "This runbook provides detailed steps to perform the task: Create AWS EC2 Instance. It ensures operational consistency and minimizes downtime.",
+      "Prerequisites": [
+        "Administrative access to systems",
+        "Network connectivity",
+        "Required tools (SSH, CLI, monitoring dashboards)",
+        "Dependencies verified"
+      ],
+      "Steps": [
+        "Verify current system status using monitoring tools or CLI commands.",
+        "Notify stakeholders about the planned activity and expected impact.",
+        "Execute task-specific commands (e.g., sudo systemctl restart app.service).",
+        "Validate outcome by checking service status, logs, and application accessibility.",
+        "Update incident tracker with details of the operation."
+      ],
+      "ExpectedOutcome": "The task completes successfully without errors. Services remain stable and accessible.",
+      "RollbackPlan": [
+        "If the task fails:",
+        "Revert to previous configuration snapshot or backup.",
+        "Restart dependent services if necessary.",
+        "Escalate to Level 2 support for troubleshooting."
+      ],
+      "Contacts": {
+        "Primary": {
+          "Name": "John Jones",
+          "Email": "john.jones@example.com",
+          "Phone": "+91-8599712367"
+        },
+        "Escalation": {
+          "Name": "David Williams",
+          "Email": "david.williams@example.com",
+          "Phone": "+91-8574569016"
+        }
+      }
+    }
+  },
+  {
+    "Question": "Create Azure VM",
+    "Answer": {
+      "Purpose": "This runbook provides detailed steps to perform the task: Create Azure VM. It ensures operational consistency and minimizes downtime.",
+      "Prerequisites": [
+        "Administrative access to systems",
+        "Network connectivity",
+        "Required tools (SSH, CLI, monitoring dashboards)",
+        "Dependencies verified"
+      ],
+      "Steps": [
+        "Verify current system status using monitoring tools or CLI commands.",
+        "Notify stakeholders about the planned activity and expected impact.",
+        "Execute task-specific commands (e.g., sudo systemctl restart app.service).",
+        "Validate outcome by checking service status, logs, and application accessibility.",
+        "Update incident tracker with details of the operation."
+      ],
+      "ExpectedOutcome": "The task completes successfully without errors. Services remain stable and accessible.",
+      "RollbackPlan": [
+        "If the task fails:",
+        "Revert to previous configuration snapshot or backup.",
+        "Restart dependent services if necessary.",
+        "Escalate to Level 2 support for troubleshooting."
+      ],
+      "Contacts": {
+        "Primary": {
+          "Name": "Robert Taylor",
+          "Email": "robert.taylor@example.com",
+          "Phone": "+91-9979726303"
+        },
+        "Escalation": {
+          "Name": "Sophia Williams",
+          "Email": "sophia.williams@example.com",
+          "Phone": "+91-9153732080"
+        }
+      }
+    }
+  },
+  {
+    "Question": "Create GCP VM",
+    "Answer": {
+      "Purpose": "This runbook provides detailed steps to perform the task: Create GCP VM. It ensures operational consistency and minimizes downtime.",
+      "Prerequisites": [
+        "Administrative access to systems",
+        "Network connectivity",
+        "Required tools (SSH, CLI, monitoring dashboards)",
+        "Dependencies verified"
+      ],
+      "Steps": [
+        "Verify current system status using monitoring tools or CLI commands.",
+        "Notify stakeholders about the planned activity and expected impact.",
+        "Execute task-specific commands (e.g., sudo systemctl restart app.service).",
+        "Validate outcome by checking service status, logs, and application accessibility.",
+        "Update incident tracker with details of the operation."
+      ],
+      "ExpectedOutcome": "The task completes successfully without errors. Services remain stable and accessible.",
+      "RollbackPlan": [
+        "If the task fails:",
+        "Revert to previous configuration snapshot or backup.",
+        "Restart dependent services if necessary.",
+        "Escalate to Level 2 support for troubleshooting."
+      ],
+      "Contacts": {
+        "Primary": {
+          "Name": "Jane Williams",
+          "Email": "jane.williams@example.com",
+          "Phone": "+91-8443327684"
+        },
+        "Escalation": {
+          "Name": "Robert Johnson",
+          "Email": "robert.johnson@example.com",
+          "Phone": "+91-6623531473"
+        }
+      }
+    }
+  },
+  {
+    "Question": "Setup Auto Scaling in AWS",
+    "Answer": {
+      "Purpose": "This runbook provides detailed steps to perform the task: Setup Auto Scaling in AWS. It ensures operational consistency and minimizes downtime.",
+      "Prerequisites": [
+        "Administrative access to systems",
+        "Network connectivity",
+        "Required tools (SSH, CLI, monitoring dashboards)",
+        "Dependencies verified"
+      ],
+      "Steps": [
+        "Verify current system status using monitoring tools or CLI commands.",
+        "Notify stakeholders about the planned activity and expected impact.",
+        "Execute task-specific commands (e.g., sudo systemctl restart app.service).",
+        "Validate outcome by checking service status, logs, and application accessibility.",
+        "Update incident tracker with details of the operation."
+      ],
+      "ExpectedOutcome": "The task completes successfully without errors. Services remain stable and accessible.",
+      "RollbackPlan": [
+        "If the task fails:",
+        "Revert to previous configuration snapshot or backup.",
+        "Restart dependent services if necessary.",
+        "Escalate to Level 2 support for troubleshooting."
+      ],
+      "Contacts": {
+        "Primary": {
+          "Name": "David Smith",
+          "Email": "david.smith@example.com",
+          "Phone": "+91-7338737123"
+        },
+        "Escalation": {
+          "Name": "Robert Smith",
+          "Email": "robert.smith@example.com",
+          "Phone": "+91-6868259828"
+        }
+      }
+    }
+  },
+  {
+    "Question": "Configure Azure Storage Account",
+    "Answer": {
+      "Purpose": "This runbook provides detailed steps to perform the task: Configure Azure Storage Account. It ensures operational consistency and minimizes downtime.",
+      "Prerequisites": [
+        "Administrative access to systems",
+        "Network connectivity",
+        "Required tools (SSH, CLI, monitoring dashboards)",
+        "Dependencies verified"
+      ],
+      "Steps": [
+        "Verify current system status using monitoring tools or CLI commands.",
+        "Notify stakeholders about the planned activity and expected impact.",
+        "Execute task-specific commands (e.g., sudo systemctl restart app.service).",
+        "Validate outcome by checking service status, logs, and application accessibility.",
+        "Update incident tracker with details of the operation."
+      ],
+      "ExpectedOutcome": "The task completes successfully without errors. Services remain stable and accessible.",
+      "RollbackPlan": [
+        "If the task fails:",
+        "Revert to previous configuration snapshot or backup.",
+        "Restart dependent services if necessary.",
+        "Escalate to Level 2 support for troubleshooting."
+      ],
+      "Contacts": {
+        "Primary": {
+          "Name": "Emily Williams",
+          "Email": "emily.williams@example.com",
+          "Phone": "+91-6283928890"
+        },
+        "Escalation": {
+          "Name": "Michael Brown",
+          "Email": "michael.brown@example.com",
+          "Phone": "+91-6777648651"
+        }
+      }
+    }
+  },
+  {
+    "Question": "Configure GCP Cloud Storage",
+    "Answer": {
+      "Purpose": "This runbook provides detailed steps to perform the task: Configure GCP Cloud Storage. It ensures operational consistency and minimizes downtime.",
+      "Prerequisites": [
+        "Administrative access to systems",
+        "Network connectivity",
+        "Required tools (SSH, CLI, monitoring dashboards)",
+        "Dependencies verified"
+      ],
+      "Steps": [
+        "Verify current system status using monitoring tools or CLI commands.",
+        "Notify stakeholders about the planned activity and expected impact.",
+        "Execute task-specific commands (e.g., sudo systemctl restart app.service).",
+        "Validate outcome by checking service status, logs, and application accessibility.",
+        "Update incident tracker with details of the operation."
+      ],
+      "ExpectedOutcome": "The task completes successfully without errors. Services remain stable and accessible.",
+      "RollbackPlan": [
+        "If the task fails:",
+        "Revert to previous configuration snapshot or backup.",
+        "Restart dependent services if necessary.",
+        "Escalate to Level 2 support for troubleshooting."
+      ],
+      "Contacts": {
+        "Primary": {
+          "Name": "Jane Williams",
+          "Email": "jane.williams@example.com",
+          "Phone": "+91-7825140921"
+        },
+        "Escalation": {
+          "Name": "Emily Jones",
+          "Email": "emily.jones@example.com",
+          "Phone": "+91-6442618339"
+        }
+      }
+    }
+  },
+  {
+    "Question": "Terraform Infrastructure Deployment",
+    "Answer": {
+      "Purpose": "This runbook provides detailed steps to perform the task: Terraform Infrastructure Deployment. It ensures operational consistency and minimizes downtime.",
+      "Prerequisites": [
+        "Administrative access to systems",
+        "Network connectivity",
+        "Required tools (SSH, CLI, monitoring dashboards)",
+        "Dependencies verified"
+      ],
+      "Steps": [
+        "Verify current system status using monitoring tools or CLI commands.",
+        "Notify stakeholders about the planned activity and expected impact.",
+        "Execute task-specific commands (e.g., sudo systemctl restart app.service).",
+        "Validate outcome by checking service status, logs, and application accessibility.",
+        "Update incident tracker with details of the operation."
+      ],
+      "ExpectedOutcome": "The task completes successfully without errors. Services remain stable and accessible.",
+      "RollbackPlan": [
+        "If the task fails:",
+        "Revert to previous configuration snapshot or backup.",
+        "Restart dependent services if necessary.",
+        "Escalate to Level 2 support for troubleshooting."
+      ],
+      "Contacts": {
+        "Primary": {
+          "Name": "Jane Davis",
+          "Email": "jane.davis@example.com",
+          "Phone": "+91-8093664580"
+        },
+        "Escalation": {
+          "Name": "Sophia Miller",
+          "Email": "sophia.miller@example.com",
+          "Phone": "+91-6046172610"
+        }
+      }
+    }
+  },
+  {
+    "Question": "Ansible Playbook Execution",
+    "Answer": {
+      "Purpose": "This runbook provides detailed steps to perform the task: Ansible Playbook Execution. It ensures operational consistency and minimizes downtime.",
+      "Prerequisites": [
+        "Administrative access to systems",
+        "Network connectivity",
+        "Required tools (SSH, CLI, monitoring dashboards)",
+        "Dependencies verified"
+      ],
+      "Steps": [
+        "Verify current system status using monitoring tools or CLI commands.",
+        "Notify stakeholders about the planned activity and expected impact.",
+        "Execute task-specific commands (e.g., sudo systemctl restart app.service).",
+        "Validate outcome by checking service status, logs, and application accessibility.",
+        "Update incident tracker with details of the operation."
+      ],
+      "ExpectedOutcome": "The task completes successfully without errors. Services remain stable and accessible.",
+      "RollbackPlan": [
+        "If the task fails:",
+        "Revert to previous configuration snapshot or backup.",
+        "Restart dependent services if necessary.",
+        "Escalate to Level 2 support for troubleshooting."
+      ],
+      "Contacts": {
+        "Primary": {
+          "Name": "Sophia Garcia",
+          "Email": "sophia.garcia@example.com",
+          "Phone": "+91-8159169075"
+        },
+        "Escalation": {
+          "Name": "Robert Garcia",
+          "Email": "robert.garcia@example.com",
+          "Phone": "+91-6270435522"
+        }
+      }
+    }
+  },
+  {
+    "Question": "Kubernetes Cluster Setup",
+    "Answer": {
+      "Purpose": "This runbook provides detailed steps to perform the task: Kubernetes Cluster Setup. It ensures operational consistency and minimizes downtime.",
+      "Prerequisites": [
+        "Administrative access to systems",
+        "Network connectivity",
+        "Required tools (SSH, CLI, monitoring dashboards)",
+        "Dependencies verified"
+      ],
+      "Steps": [
+        "Verify current system status using monitoring tools or CLI commands.",
+        "Notify stakeholders about the planned activity and expected impact.",
+        "Execute task-specific commands (e.g., sudo systemctl restart app.service).",
+        "Validate outcome by checking service status, logs, and application accessibility.",
+        "Update incident tracker with details of the operation."
+      ],
+      "ExpectedOutcome": "The task completes successfully without errors. Services remain stable and accessible.",
+      "RollbackPlan": [
+        "If the task fails:",
+        "Revert to previous configuration snapshot or backup.",
+        "Restart dependent services if necessary.",
+        "Escalate to Level 2 support for troubleshooting."
+      ],
+      "Contacts": {
+        "Primary": {
+          "Name": "Emma Williams",
+          "Email": "emma.williams@example.com",
+          "Phone": "+91-8887137455"
+        },
+        "Escalation": {
+          "Name": "John Jones",
+          "Email": "john.jones@example.com",
+          "Phone": "+91-9353023915"
+        }
+      }
+    }
+  },
+  {
+    "Question": "Docker Container Deployment",
+    "Answer": {
+      "Purpose": "This runbook provides detailed steps to perform the task: Docker Container Deployment. It ensures operational consistency and minimizes downtime.",
+      "Prerequisites": [
+        "Administrative access to systems",
+        "Network connectivity",
+        "Required tools (SSH, CLI, monitoring dashboards)",
+        "Dependencies verified"
+      ],
+      "Steps": [
+        "Verify current system status using monitoring tools or CLI commands.",
+        "Notify stakeholders about the planned activity and expected impact.",
+        "Execute task-specific commands (e.g., sudo systemctl restart app.service).",
+        "Validate outcome by checking service status, logs, and application accessibility.",
+        "Update incident tracker with details of the operation."
+      ],
+      "ExpectedOutcome": "The task completes successfully without errors. Services remain stable and accessible.",
+      "RollbackPlan": [
+        "If the task fails:",
+        "Revert to previous configuration snapshot or backup.",
+        "Restart dependent services if necessary.",
+        "Escalate to Level 2 support for troubleshooting."
+      ],
+      "Contacts": {
+        "Primary": {
+          "Name": "Robert Taylor",
+          "Email": "robert.taylor@example.com",
+          "Phone": "+91-9173894032"
+        },
+        "Escalation": {
+          "Name": "John Garcia",
+          "Email": "john.garcia@example.com",
+          "Phone": "+91-8958304196"
+        }
+      }
+    }
+  },
+  {
+    "Question": "CI/CD Pipeline Setup (Jenkins)",
+    "Answer": {
+      "Purpose": "This runbook provides detailed steps to perform the task: CI/CD Pipeline Setup (Jenkins). It ensures operational consistency and minimizes downtime.",
+      "Prerequisites": [
+        "Administrative access to systems",
+        "Network connectivity",
+        "Required tools (SSH, CLI, monitoring dashboards)",
+        "Dependencies verified"
+      ],
+      "Steps": [
+        "Verify current system status using monitoring tools or CLI commands.",
+        "Notify stakeholders about the planned activity and expected impact.",
+        "Execute task-specific commands (e.g., sudo systemctl restart app.service).",
+        "Validate outcome by checking service status, logs, and application accessibility.",
+        "Update incident tracker with details of the operation."
+      ],
+      "ExpectedOutcome": "The task completes successfully without errors. Services remain stable and accessible.",
+      "RollbackPlan": [
+        "If the task fails:",
+        "Revert to previous configuration snapshot or backup.",
+        "Restart dependent services if necessary.",
+        "Escalate to Level 2 support for troubleshooting."
+      ],
+      "Contacts": {
+        "Primary": {
+          "Name": "David Brown",
+          "Email": "david.brown@example.com",
+          "Phone": "+91-6053585699"
+        },
+        "Escalation": {
+          "Name": "Olivia Johnson",
+          "Email": "olivia.johnson@example.com",
+          "Phone": "+91-6198221449"
+        }
+      }
+    }
+  },
+  {
+    "Question": "Configure Firewall Rules",
+    "Answer": {
+      "Purpose": "This runbook provides detailed steps to perform the task: Configure Firewall Rules. It ensures operational consistency and minimizes downtime.",
+      "Prerequisites": [
+        "Administrative access to systems",
+        "Network connectivity",
+        "Required tools (SSH, CLI, monitoring dashboards)",
+        "Dependencies verified"
+      ],
+      "Steps": [
+        "Verify current system status using monitoring tools or CLI commands.",
+        "Notify stakeholders about the planned activity and expected impact.",
+        "Execute task-specific commands (e.g., sudo systemctl restart app.service).",
+        "Validate outcome by checking service status, logs, and application accessibility.",
+        "Update incident tracker with details of the operation."
+      ],
+      "ExpectedOutcome": "The task completes successfully without errors. Services remain stable and accessible.",
+      "RollbackPlan": [
+        "If the task fails:",
+        "Revert to previous configuration snapshot or backup.",
+        "Restart dependent services if necessary.",
+        "Escalate to Level 2 support for troubleshooting."
+      ],
+      "Contacts": {
+        "Primary": {
+          "Name": "Emma Martinez",
+          "Email": "emma.martinez@example.com",
+          "Phone": "+91-8330124717"
+        },
+        "Escalation": {
+          "Name": "Emma Brown",
+          "Email": "emma.brown@example.com",
+          "Phone": "+91-7008958222"
+        }
+      }
+    }
+  },
+  {
+    "Question": "Enable Multi-Factor Authentication",
+    "Answer": {
+      "Purpose": "This runbook provides detailed steps to perform the task: Enable Multi-Factor Authentication. It ensures operational consistency and minimizes downtime.",
+      "Prerequisites": [
+        "Administrative access to systems",
+        "Network connectivity",
+        "Required tools (SSH, CLI, monitoring dashboards)",
+        "Dependencies verified"
+      ],
+      "Steps": [
+        "Verify current system status using monitoring tools or CLI commands.",
+        "Notify stakeholders about the planned activity and expected impact.",
+        "Execute task-specific commands (e.g., sudo systemctl restart app.service).",
+        "Validate outcome by checking service status, logs, and application accessibility.",
+        "Update incident tracker with details of the operation."
+      ],
+      "ExpectedOutcome": "The task completes successfully without errors. Services remain stable and accessible.",
+      "RollbackPlan": [
+        "If the task fails:",
+        "Revert to previous configuration snapshot or backup.",
+        "Restart dependent services if necessary.",
+        "Escalate to Level 2 support for troubleshooting."
+      ],
+      "Contacts": {
+        "Primary": {
+          "Name": "David Martinez",
+          "Email": "david.martinez@example.com",
+          "Phone": "+91-6545318106"
+        },
+        "Escalation": {
+          "Name": "David Garcia",
+          "Email": "david.garcia@example.com",
+          "Phone": "+91-9354462278"
+        }
+      }
+    }
+  },
+  {
+    "Question": "Patch Windows Server",
+    "Answer": {
+      "Purpose": "This runbook provides detailed steps to perform the task: Patch Windows Server. It ensures operational consistency and minimizes downtime.",
+      "Prerequisites": [
+        "Administrative access to systems",
+        "Network connectivity",
+        "Required tools (SSH, CLI, monitoring dashboards)",
+        "Dependencies verified"
+      ],
+      "Steps": [
+        "Verify current system status using monitoring tools or CLI commands.",
+        "Notify stakeholders about the planned activity and expected impact.",
+        "Execute task-specific commands (e.g., sudo systemctl restart app.service).",
+        "Validate outcome by checking service status, logs, and application accessibility.",
+        "Update incident tracker with details of the operation."
+      ],
+      "ExpectedOutcome": "The task completes successfully without errors. Services remain stable and accessible.",
+      "RollbackPlan": [
+        "If the task fails:",
+        "Revert to previous configuration snapshot or backup.",
+        "Restart dependent services if necessary.",
+        "Escalate to Level 2 support for troubleshooting."
+      ],
+      "Contacts": {
+        "Primary": {
+          "Name": "Emma Johnson",
+          "Email": "emma.johnson@example.com",
+          "Phone": "+91-8135892158"
+        },
+        "Escalation": {
+          "Name": "John Smith",
+          "Email": "john.smith@example.com",
+          "Phone": "+91-6830205907"
+        }
+      }
+    }
+  },
+  {
+    "Question": "Configure Active Directory",
+    "Answer": {
+      "Purpose": "This runbook provides detailed steps to perform the task: Configure Active Directory. It ensures operational consistency and minimizes downtime.",
+      "Prerequisites": [
+        "Administrative access to systems",
+        "Network connectivity",
+        "Required tools (SSH, CLI, monitoring dashboards)",
+        "Dependencies verified"
+      ],
+      "Steps": [
+        "Verify current system status using monitoring tools or CLI commands.",
+        "Notify stakeholders about the planned activity and expected impact.",
+        "Execute task-specific commands (e.g., sudo systemctl restart app.service).",
+        "Validate outcome by checking service status, logs, and application accessibility.",
+        "Update incident tracker with details of the operation."
+      ],
+      "ExpectedOutcome": "The task completes successfully without errors. Services remain stable and accessible.",
+      "RollbackPlan": [
+        "If the task fails:",
+        "Revert to previous configuration snapshot or backup.",
+        "Restart dependent services if necessary.",
+        "Escalate to Level 2 support for troubleshooting."
+      ],
+      "Contacts": {
+        "Primary": {
+          "Name": "Olivia Jones",
+          "Email": "olivia.jones@example.com",
+          "Phone": "+91-9746430869"
+        },
+        "Escalation": {
+          "Name": "Emily Martinez",
+          "Email": "emily.martinez@example.com",
+          "Phone": "+91-7023251221"
+        }
+      }
+    }
+  },
+  {
+    "Question": "Database Migration (Oracle to MySQL)",
+    "Answer": {
+      "Purpose": "This runbook provides detailed steps to perform the task: Database Migration (Oracle to MySQL). It ensures operational consistency and minimizes downtime.",
+      "Prerequisites": [
+        "Administrative access to systems",
+        "Network connectivity",
+        "Required tools (SSH, CLI, monitoring dashboards)",
+        "Dependencies verified"
+      ],
+      "Steps": [
+        "Verify current system status using monitoring tools or CLI commands.",
+        "Notify stakeholders about the planned activity and expected impact.",
+        "Execute task-specific commands (e.g., sudo systemctl restart app.service).",
+        "Validate outcome by checking service status, logs, and application accessibility.",
+        "Update incident tracker with details of the operation."
+      ],
+      "ExpectedOutcome": "The task completes successfully without errors. Services remain stable and accessible.",
+      "RollbackPlan": [
+        "If the task fails:",
+        "Revert to previous configuration snapshot or backup.",
+        "Restart dependent services if necessary.",
+        "Escalate to Level 2 support for troubleshooting."
+      ],
+      "Contacts": {
+        "Primary": {
+          "Name": "Emma Smith",
+          "Email": "emma.smith@example.com",
+          "Phone": "+91-7108981043"
+        },
+        "Escalation": {
+          "Name": "Michael Davis",
+          "Email": "michael.davis@example.com",
+          "Phone": "+91-7402001046"
+        }
+      }
+    }
+  },
+  {
+    "Question": "Database Performance Tuning",
+    "Answer": {
+      "Purpose": "This runbook provides detailed steps to perform the task: Database Performance Tuning. It ensures operational consistency and minimizes downtime.",
+      "Prerequisites": [
+        "Administrative access to systems",
+        "Network connectivity",
+        "Required tools (SSH, CLI, monitoring dashboards)",
+        "Dependencies verified"
+      ],
+      "Steps": [
+        "Verify current system status using monitoring tools or CLI commands.",
+        "Notify stakeholders about the planned activity and expected impact.",
+        "Execute task-specific commands (e.g., sudo systemctl restart app.service).",
+        "Validate outcome by checking service status, logs, and application accessibility.",
+        "Update incident tracker with details of the operation."
+      ],
+      "ExpectedOutcome": "The task completes successfully without errors. Services remain stable and accessible.",
+      "RollbackPlan": [
+        "If the task fails:",
+        "Revert to previous configuration snapshot or backup.",
+        "Restart dependent services if necessary.",
+        "Escalate to Level 2 support for troubleshooting."
+      ],
+      "Contacts": {
+        "Primary": {
+          "Name": "Sophia Jones",
+          "Email": "sophia.jones@example.com",
+          "Phone": "+91-6696807963"
+        },
+        "Escalation": {
+          "Name": "David Williams",
+          "Email": "david.williams@example.com",
+          "Phone": "+91-7844334198"
+        }
+      }
+    }
+  },
+  {
+    "Question": "Setup Monitoring with Prometheus",
+    "Answer": {
+      "Purpose": "This runbook provides detailed steps to perform the task: Setup Monitoring with Prometheus. It ensures operational consistency and minimizes downtime.",
+      "Prerequisites": [
+        "Administrative access to systems",
+        "Network connectivity",
+        "Required tools (SSH, CLI, monitoring dashboards)",
+        "Dependencies verified"
+      ],
+      "Steps": [
+        "Verify current system status using monitoring tools or CLI commands.",
+        "Notify stakeholders about the planned activity and expected impact.",
+        "Execute task-specific commands (e.g., sudo systemctl restart app.service).",
+        "Validate outcome by checking service status, logs, and application accessibility.",
+        "Update incident tracker with details of the operation."
+      ],
+      "ExpectedOutcome": "The task completes successfully without errors. Services remain stable and accessible.",
+      "RollbackPlan": [
+        "If the task fails:",
+        "Revert to previous configuration snapshot or backup.",
+        "Restart dependent services if necessary.",
+        "Escalate to Level 2 support for troubleshooting."
+      ],
+      "Contacts": {
+        "Primary": {
+          "Name": "Robert Taylor",
+          "Email": "robert.taylor@example.com",
+          "Phone": "+91-7283656005"
+        },
+        "Escalation": {
+          "Name": "Michael Jones",
+          "Email": "michael.jones@example.com",
+          "Phone": "+91-7730309081"
+        }
+      }
+    }
+  },
+  {
+    "Question": "Setup Alerts in Grafana",
+    "Answer": {
+      "Purpose": "This runbook provides detailed steps to perform the task: Setup Alerts in Grafana. It ensures operational consistency and minimizes downtime.",
+      "Prerequisites": [
+        "Administrative access to systems",
+        "Network connectivity",
+        "Required tools (SSH, CLI, monitoring dashboards)",
+        "Dependencies verified"
+      ],
+      "Steps": [
+        "Verify current system status using monitoring tools or CLI commands.",
+        "Notify stakeholders about the planned activity and expected impact.",
+        "Execute task-specific commands (e.g., sudo systemctl restart app.service).",
+        "Validate outcome by checking service status, logs, and application accessibility.",
+        "Update incident tracker with details of the operation."
+      ],
+      "ExpectedOutcome": "The task completes successfully without errors. Services remain stable and accessible.",
+      "RollbackPlan": [
+        "If the task fails:",
+        "Revert to previous configuration snapshot or backup.",
+        "Restart dependent services if necessary.",
+        "Escalate to Level 2 support for troubleshooting."
+      ],
+      "Contacts": {
+        "Primary": {
+          "Name": "Michael Brown",
+          "Email": "michael.brown@example.com",
+          "Phone": "+91-9416657556"
+        },
+        "Escalation": {
+          "Name": "Emily Martinez",
+          "Email": "emily.martinez@example.com",
+          "Phone": "+91-7424954218"
+        }
+      }
+    }
+  },
+  {
+    "Question": "Configure ELK Stack",
+    "Answer": {
+      "Purpose": "This runbook provides detailed steps to perform the task: Configure ELK Stack. It ensures operational consistency and minimizes downtime.",
+      "Prerequisites": [
+        "Administrative access to systems",
+        "Network connectivity",
+        "Required tools (SSH, CLI, monitoring dashboards)",
+        "Dependencies verified"
+      ],
+      "Steps": [
+        "Verify current system status using monitoring tools or CLI commands.",
+        "Notify stakeholders about the planned activity and expected impact.",
+        "Execute task-specific commands (e.g., sudo systemctl restart app.service).",
+        "Validate outcome by checking service status, logs, and application accessibility.",
+        "Update incident tracker with details of the operation."
+      ],
+      "ExpectedOutcome": "The task completes successfully without errors. Services remain stable and accessible.",
+      "RollbackPlan": [
+        "If the task fails:",
+        "Revert to previous configuration snapshot or backup.",
+        "Restart dependent services if necessary.",
+        "Escalate to Level 2 support for troubleshooting."
+      ],
+      "Contacts": {
+        "Primary": {
+          "Name": "Jane Johnson",
+          "Email": "jane.johnson@example.com",
+          "Phone": "+91-7855707081"
+        },
+        "Escalation": {
+          "Name": "Sophia Martinez",
+          "Email": "sophia.martinez@example.com",
+          "Phone": "+91-7832735248"
+        }
+      }
+    }
+  },
+  {
+    "Question": "Setup Backup Policy",
+    "Answer": {
+      "Purpose": "This runbook provides detailed steps to perform the task: Setup Backup Policy. It ensures operational consistency and minimizes downtime.",
+      "Prerequisites": [
+        "Administrative access to systems",
+        "Network connectivity",
+        "Required tools (SSH, CLI, monitoring dashboards)",
+        "Dependencies verified"
+      ],
+      "Steps": [
+        "Verify current system status using monitoring tools or CLI commands.",
+        "Notify stakeholders about the planned activity and expected impact.",
+        "Execute task-specific commands (e.g., sudo systemctl restart app.service).",
+        "Validate outcome by checking service status, logs, and application accessibility.",
+        "Update incident tracker with details of the operation."
+      ],
+      "ExpectedOutcome": "The task completes successfully without errors. Services remain stable and accessible.",
+      "RollbackPlan": [
+        "If the task fails:",
+        "Revert to previous configuration snapshot or backup.",
+        "Restart dependent services if necessary.",
+        "Escalate to Level 2 support for troubleshooting."
+      ],
+      "Contacts": {
+        "Primary": {
+          "Name": "John Johnson",
+          "Email": "john.johnson@example.com",
+          "Phone": "+91-6159461919"
+        },
+        "Escalation": {
+          "Name": "Sophia Johnson",
+          "Email": "sophia.johnson@example.com",
+          "Phone": "+91-8915782234"
+        }
+      }
+    }
+  },
+  {
+    "Question": "Configure Disaster Recovery Plan",
+    "Answer": {
+      "Purpose": "This runbook provides detailed steps to perform the task: Configure Disaster Recovery Plan. It ensures operational consistency and minimizes downtime.",
+      "Prerequisites": [
+        "Administrative access to systems",
+        "Network connectivity",
+        "Required tools (SSH, CLI, monitoring dashboards)",
+        "Dependencies verified"
+      ],
+      "Steps": [
+        "Verify current system status using monitoring tools or CLI commands.",
+        "Notify stakeholders about the planned activity and expected impact.",
+        "Execute task-specific commands (e.g., sudo systemctl restart app.service).",
+        "Validate outcome by checking service status, logs, and application accessibility.",
+        "Update incident tracker with details of the operation."
+      ],
+      "ExpectedOutcome": "The task completes successfully without errors. Services remain stable and accessible.",
+      "RollbackPlan": [
+        "If the task fails:",
+        "Revert to previous configuration snapshot or backup.",
+        "Restart dependent services if necessary.",
+        "Escalate to Level 2 support for troubleshooting."
+      ],
+      "Contacts": {
+        "Primary": {
+          "Name": "Sophia Garcia",
+          "Email": "sophia.garcia@example.com",
+          "Phone": "+91-6653587676"
+        },
+        "Escalation": {
+          "Name": "Jane Davis",
+          "Email": "jane.davis@example.com",
+          "Phone": "+91-6320525337"
+        }
+      }
+    }
+  },
+  {
+    "Question": "Deploy Microservices",
+    "Answer": {
+      "Purpose": "This runbook provides detailed steps to perform the task: Deploy Microservices. It ensures operational consistency and minimizes downtime.",
+      "Prerequisites": [
+        "Administrative access to systems",
+        "Network connectivity",
+        "Required tools (SSH, CLI, monitoring dashboards)",
+        "Dependencies verified"
+      ],
+      "Steps": [
+        "Verify current system status using monitoring tools or CLI commands.",
+        "Notify stakeholders about the planned activity and expected impact.",
+        "Execute task-specific commands (e.g., sudo systemctl restart app.service).",
+        "Validate outcome by checking service status, logs, and application accessibility.",
+        "Update incident tracker with details of the operation."
+      ],
+      "ExpectedOutcome": "The task completes successfully without errors. Services remain stable and accessible.",
+      "RollbackPlan": [
+        "If the task fails:",
+        "Revert to previous configuration snapshot or backup.",
+        "Restart dependent services if necessary.",
+        "Escalate to Level 2 support for troubleshooting."
+      ],
+      "Contacts": {
+        "Primary": {
+          "Name": "Emily Davis",
+          "Email": "emily.davis@example.com",
+          "Phone": "+91-8091657419"
+        },
+        "Escalation": {
+          "Name": "David Smith",
+          "Email": "david.smith@example.com",
+          "Phone": "+91-7282068583"
+        }
+      }
+    }
+  },
+  {
+    "Question": "Configure API Gateway",
+    "Answer": {
+      "Purpose": "This runbook provides detailed steps to perform the task: Configure API Gateway. It ensures operational consistency and minimizes downtime.",
+      "Prerequisites": [
+        "Administrative access to systems",
+        "Network connectivity",
+        "Required tools (SSH, CLI, monitoring dashboards)",
+        "Dependencies verified"
+      ],
+      "Steps": [
+        "Verify current system status using monitoring tools or CLI commands.",
+        "Notify stakeholders about the planned activity and expected impact.",
+        "Execute task-specific commands (e.g., sudo systemctl restart app.service).",
+        "Validate outcome by checking service status, logs, and application accessibility.",
+        "Update incident tracker with details of the operation."
+      ],
+      "ExpectedOutcome": "The task completes successfully without errors. Services remain stable and accessible.",
+      "RollbackPlan": [
+        "If the task fails:",
+        "Revert to previous configuration snapshot or backup.",
+        "Restart dependent services if necessary.",
+        "Escalate to Level 2 support for troubleshooting."
+      ],
+      "Contacts": {
+        "Primary": {
+          "Name": "David Davis",
+          "Email": "david.davis@example.com",
+          "Phone": "+91-9661596676"
+        },
+        "Escalation": {
+          "Name": "Michael Brown",
+          "Email": "michael.brown@example.com",
+          "Phone": "+91-7231892774"
+        }
+      }
+    }
+  },
+  {
+    "Question": "Setup VPN Connection",
+    "Answer": {
+      "Purpose": "This runbook provides detailed steps to perform the task: Setup VPN Connection. It ensures operational consistency and minimizes downtime.",
+      "Prerequisites": [
+        "Administrative access to systems",
+        "Network connectivity",
+        "Required tools (SSH, CLI, monitoring dashboards)",
+        "Dependencies verified"
+      ],
+      "Steps": [
+        "Verify current system status using monitoring tools or CLI commands.",
+        "Notify stakeholders about the planned activity and expected impact.",
+        "Execute task-specific commands (e.g., sudo systemctl restart app.service).",
+        "Validate outcome by checking service status, logs, and application accessibility.",
+        "Update incident tracker with details of the operation."
+      ],
+      "ExpectedOutcome": "The task completes successfully without errors. Services remain stable and accessible.",
+      "RollbackPlan": [
+        "If the task fails:",
+        "Revert to previous configuration snapshot or backup.",
+        "Restart dependent services if necessary.",
+        "Escalate to Level 2 support for troubleshooting."
+      ],
+      "Contacts": {
+        "Primary": {
+          "Name": "Jane Miller",
+          "Email": "jane.miller@example.com",
+          "Phone": "+91-6919514392"
+        },
+        "Escalation": {
+          "Name": "Jane Johnson",
+          "Email": "jane.johnson@example.com",
+          "Phone": "+91-7882902483"
+        }
+      }
+    }
+  },
+  {
+    "Question": "Configure DNS Records",
+    "Answer": {
+      "Purpose": "This runbook provides detailed steps to perform the task: Configure DNS Records. It ensures operational consistency and minimizes downtime.",
+      "Prerequisites": [
+        "Administrative access to systems",
+        "Network connectivity",
+        "Required tools (SSH, CLI, monitoring dashboards)",
+        "Dependencies verified"
+      ],
+      "Steps": [
+        "Verify current system status using monitoring tools or CLI commands.",
+        "Notify stakeholders about the planned activity and expected impact.",
+        "Execute task-specific commands (e.g., sudo systemctl restart app.service).",
+        "Validate outcome by checking service status, logs, and application accessibility.",
+        "Update incident tracker with details of the operation."
+      ],
+      "ExpectedOutcome": "The task completes successfully without errors. Services remain stable and accessible.",
+      "RollbackPlan": [
+        "If the task fails:",
+        "Revert to previous configuration snapshot or backup.",
+        "Restart dependent services if necessary.",
+        "Escalate to Level 2 support for troubleshooting."
+      ],
+      "Contacts": {
+        "Primary": {
+          "Name": "Sophia Williams",
+          "Email": "sophia.williams@example.com",
+          "Phone": "+91-8914539205"
+        },
+        "Escalation": {
+          "Name": "David Taylor",
+          "Email": "david.taylor@example.com",
+          "Phone": "+91-8055519163"
+        }
+      }
+    }
+  },
+  {
+    "Question": "Enable Logging in Cloud Services",
+    "Answer": {
+      "Purpose": "This runbook provides detailed steps to perform the task: Enable Logging in Cloud Services. It ensures operational consistency and minimizes downtime.",
+      "Prerequisites": [
+        "Administrative access to systems",
+        "Network connectivity",
+        "Required tools (SSH, CLI, monitoring dashboards)",
+        "Dependencies verified"
+      ],
+      "Steps": [
+        "Verify current system status using monitoring tools or CLI commands.",
+        "Notify stakeholders about the planned activity and expected impact.",
+        "Execute task-specific commands (e.g., sudo systemctl restart app.service).",
+        "Validate outcome by checking service status, logs, and application accessibility.",
+        "Update incident tracker with details of the operation."
+      ],
+      "ExpectedOutcome": "The task completes successfully without errors. Services remain stable and accessible.",
+      "RollbackPlan": [
+        "If the task fails:",
+        "Revert to previous configuration snapshot or backup.",
+        "Restart dependent services if necessary.",
+        "Escalate to Level 2 support for troubleshooting."
+      ],
+      "Contacts": {
+        "Primary": {
+          "Name": "Emma Garcia",
+          "Email": "emma.garcia@example.com",
+          "Phone": "+91-7495957086"
+        },
+        "Escalation": {
+          "Name": "Emma Brown",
+          "Email": "emma.brown@example.com",
+          "Phone": "+91-8256068963"
+        }
+      }
+    }
+  },
+  {
+    "Question": "Setup IAM Roles in AWS",
+    "Answer": {
+      "Purpose": "This runbook provides detailed steps to perform the task: Setup IAM Roles in AWS. It ensures operational consistency and minimizes downtime.",
+      "Prerequisites": [
+        "Administrative access to systems",
+        "Network connectivity",
+        "Required tools (SSH, CLI, monitoring dashboards)",
+        "Dependencies verified"
+      ],
+      "Steps": [
+        "Verify current system status using monitoring tools or CLI commands.",
+        "Notify stakeholders about the planned activity and expected impact.",
+        "Execute task-specific commands (e.g., sudo systemctl restart app.service).",
+        "Validate outcome by checking service status, logs, and application accessibility.",
+        "Update incident tracker with details of the operation."
+      ],
+      "ExpectedOutcome": "The task completes successfully without errors. Services remain stable and accessible.",
+      "RollbackPlan": [
+        "If the task fails:",
+        "Revert to previous configuration snapshot or backup.",
+        "Restart dependent services if necessary.",
+        "Escalate to Level 2 support for troubleshooting."
+      ],
+      "Contacts": {
+        "Primary": {
+          "Name": "Robert Jones",
+          "Email": "robert.jones@example.com",
+          "Phone": "+91-8200800572"
+        },
+        "Escalation": {
+          "Name": "Michael Williams",
+          "Email": "michael.williams@example.com",
+          "Phone": "+91-6803456063"
+        }
+      }
+    }
+  },
+  {
+    "Question": "Configure Azure RBAC",
+    "Answer": {
+      "Purpose": "This runbook provides detailed steps to perform the task: Configure Azure RBAC. It ensures operational consistency and minimizes downtime.",
+      "Prerequisites": [
+        "Administrative access to systems",
+        "Network connectivity",
+        "Required tools (SSH, CLI, monitoring dashboards)",
+        "Dependencies verified"
+      ],
+      "Steps": [
+        "Verify current system status using monitoring tools or CLI commands.",
+        "Notify stakeholders about the planned activity and expected impact.",
+        "Execute task-specific commands (e.g., sudo systemctl restart app.service).",
+        "Validate outcome by checking service status, logs, and application accessibility.",
+        "Update incident tracker with details of the operation."
+      ],
+      "ExpectedOutcome": "The task completes successfully without errors. Services remain stable and accessible.",
+      "RollbackPlan": [
+        "If the task fails:",
+        "Revert to previous configuration snapshot or backup.",
+        "Restart dependent services if necessary.",
+        "Escalate to Level 2 support for troubleshooting."
+      ],
+      "Contacts": {
+        "Primary": {
+          "Name": "Emma Smith",
+          "Email": "emma.smith@example.com",
+          "Phone": "+91-6890463957"
+        },
+        "Escalation": {
+          "Name": "Emily Martinez",
+          "Email": "emily.martinez@example.com",
+          "Phone": "+91-7557956962"
+        }
+      }
+    }
+  },
+  {
+    "Question": "Setup GCP IAM Policies",
+    "Answer": {
+      "Purpose": "This runbook provides detailed steps to perform the task: Setup GCP IAM Policies. It ensures operational consistency and minimizes downtime.",
+      "Prerequisites": [
+        "Administrative access to systems",
+        "Network connectivity",
+        "Required tools (SSH, CLI, monitoring dashboards)",
+        "Dependencies verified"
+      ],
+      "Steps": [
+        "Verify current system status using monitoring tools or CLI commands.",
+        "Notify stakeholders about the planned activity and expected impact.",
+        "Execute task-specific commands (e.g., sudo systemctl restart app.service).",
+        "Validate outcome by checking service status, logs, and application accessibility.",
+        "Update incident tracker with details of the operation."
+      ],
+      "ExpectedOutcome": "The task completes successfully without errors. Services remain stable and accessible.",
+      "RollbackPlan": [
+        "If the task fails:",
+        "Revert to previous configuration snapshot or backup.",
+        "Restart dependent services if necessary.",
+        "Escalate to Level 2 support for troubleshooting."
+      ],
+      "Contacts": {
+        "Primary": {
+          "Name": "Jane Miller",
+          "Email": "jane.miller@example.com",
+          "Phone": "+91-7704876047"
+        },
+        "Escalation": {
+          "Name": "David Jones",
+          "Email": "david.jones@example.com",
+          "Phone": "+91-7596852895"
+        }
+      }
+    }
+  },
+  {
+    "Question": "Create S3 Bucket",
+    "Answer": {
+      "Purpose": "This runbook provides detailed steps to perform the task: Create S3 Bucket. It ensures operational consistency and minimizes downtime.",
+      "Prerequisites": [
+        "Administrative access to systems",
+        "Network connectivity",
+        "Required tools (SSH, CLI, monitoring dashboards)",
+        "Dependencies verified"
+      ],
+      "Steps": [
+        "Verify current system status using monitoring tools or CLI commands.",
+        "Notify stakeholders about the planned activity and expected impact.",
+        "Execute task-specific commands (e.g., sudo systemctl restart app.service).",
+        "Validate outcome by checking service status, logs, and application accessibility.",
+        "Update incident tracker with details of the operation."
+      ],
+      "ExpectedOutcome": "The task completes successfully without errors. Services remain stable and accessible.",
+      "RollbackPlan": [
+        "If the task fails:",
+        "Revert to previous configuration snapshot or backup.",
+        "Restart dependent services if necessary.",
+        "Escalate to Level 2 support for troubleshooting."
+      ],
+      "Contacts": {
+        "Primary": {
+          "Name": "Emma Williams",
+          "Email": "emma.williams@example.com",
+          "Phone": "+91-7338870744"
+        },
+        "Escalation": {
+          "Name": "John Taylor",
+          "Email": "john.taylor@example.com",
+          "Phone": "+91-7888839193"
+        }
+      }
+    }
+  },
+  {
+    "Question": "Configure Blob Storage",
+    "Answer": {
+      "Purpose": "This runbook provides detailed steps to perform the task: Configure Blob Storage. It ensures operational consistency and minimizes downtime.",
+      "Prerequisites": [
+        "Administrative access to systems",
+        "Network connectivity",
+        "Required tools (SSH, CLI, monitoring dashboards)",
+        "Dependencies verified"
+      ],
+      "Steps": [
+        "Verify current system status using monitoring tools or CLI commands.",
+        "Notify stakeholders about the planned activity and expected impact.",
+        "Execute task-specific commands (e.g., sudo systemctl restart app.service).",
+        "Validate outcome by checking service status, logs, and application accessibility.",
+        "Update incident tracker with details of the operation."
+      ],
+      "ExpectedOutcome": "The task completes successfully without errors. Services remain stable and accessible.",
+      "RollbackPlan": [
+        "If the task fails:",
+        "Revert to previous configuration snapshot or backup.",
+        "Restart dependent services if necessary.",
+        "Escalate to Level 2 support for troubleshooting."
+      ],
+      "Contacts": {
+        "Primary": {
+          "Name": "Olivia Johnson",
+          "Email": "olivia.johnson@example.com",
+          "Phone": "+91-7937478311"
+        },
+        "Escalation": {
+          "Name": "Robert Taylor",
+          "Email": "robert.taylor@example.com",
+          "Phone": "+91-9773587789"
+        }
+      }
+    }
+  },
+  {
+    "Question": "Setup Cloud CDN",
+    "Answer": {
+      "Purpose": "This runbook provides detailed steps to perform the task: Setup Cloud CDN. It ensures operational consistency and minimizes downtime.",
+      "Prerequisites": [
+        "Administrative access to systems",
+        "Network connectivity",
+        "Required tools (SSH, CLI, monitoring dashboards)",
+        "Dependencies verified"
+      ],
+      "Steps": [
+        "Verify current system status using monitoring tools or CLI commands.",
+        "Notify stakeholders about the planned activity and expected impact.",
+        "Execute task-specific commands (e.g., sudo systemctl restart app.service).",
+        "Validate outcome by checking service status, logs, and application accessibility.",
+        "Update incident tracker with details of the operation."
+      ],
+      "ExpectedOutcome": "The task completes successfully without errors. Services remain stable and accessible.",
+      "RollbackPlan": [
+        "If the task fails:",
+        "Revert to previous configuration snapshot or backup.",
+        "Restart dependent services if necessary.",
+        "Escalate to Level 2 support for troubleshooting."
+      ],
+      "Contacts": {
+        "Primary": {
+          "Name": "John Martinez",
+          "Email": "john.martinez@example.com",
+          "Phone": "+91-9791259259"
+        },
+        "Escalation": {
+          "Name": "Emily Jones",
+          "Email": "emily.jones@example.com",
+          "Phone": "+91-7442764437"
+        }
+      }
+    }
+  },
+  {
+    "Question": "Enable Encryption at Rest",
+    "Answer": {
+      "Purpose": "This runbook provides detailed steps to perform the task: Enable Encryption at Rest. It ensures operational consistency and minimizes downtime.",
+      "Prerequisites": [
+        "Administrative access to systems",
+        "Network connectivity",
+        "Required tools (SSH, CLI, monitoring dashboards)",
+        "Dependencies verified"
+      ],
+      "Steps": [
+        "Verify current system status using monitoring tools or CLI commands.",
+        "Notify stakeholders about the planned activity and expected impact.",
+        "Execute task-specific commands (e.g., sudo systemctl restart app.service).",
+        "Validate outcome by checking service status, logs, and application accessibility.",
+        "Update incident tracker with details of the operation."
+      ],
+      "ExpectedOutcome": "The task completes successfully without errors. Services remain stable and accessible.",
+      "RollbackPlan": [
+        "If the task fails:",
+        "Revert to previous configuration snapshot or backup.",
+        "Restart dependent services if necessary.",
+        "Escalate to Level 2 support for troubleshooting."
+      ],
+      "Contacts": {
+        "Primary": {
+          "Name": "Daniel Miller",
+          "Email": "daniel.miller@example.com",
+          "Phone": "+91-7466686922"
+        },
+        "Escalation": {
+          "Name": "Michael Garcia",
+          "Email": "michael.garcia@example.com",
+          "Phone": "+91-6365997166"
+        }
+      }
+    }
+  },
+  {
+    "Question": "Enable Encryption in Transit",
+    "Answer": {
+      "Purpose": "This runbook provides detailed steps to perform the task: Enable Encryption in Transit. It ensures operational consistency and minimizes downtime.",
+      "Prerequisites": [
+        "Administrative access to systems",
+        "Network connectivity",
+        "Required tools (SSH, CLI, monitoring dashboards)",
+        "Dependencies verified"
+      ],
+      "Steps": [
+        "Verify current system status using monitoring tools or CLI commands.",
+        "Notify stakeholders about the planned activity and expected impact.",
+        "Execute task-specific commands (e.g., sudo systemctl restart app.service).",
+        "Validate outcome by checking service status, logs, and application accessibility.",
+        "Update incident tracker with details of the operation."
+      ],
+      "ExpectedOutcome": "The task completes successfully without errors. Services remain stable and accessible.",
+      "RollbackPlan": [
+        "If the task fails:",
+        "Revert to previous configuration snapshot or backup.",
+        "Restart dependent services if necessary.",
+        "Escalate to Level 2 support for troubleshooting."
+      ],
+      "Contacts": {
+        "Primary": {
+          "Name": "Jane Johnson",
+          "Email": "jane.johnson@example.com",
+          "Phone": "+91-8603947907"
+        },
+        "Escalation": {
+          "Name": "Michael Johnson",
+          "Email": "michael.johnson@example.com",
+          "Phone": "+91-7485597211"
+        }
+      }
+    }
+  },
+  {
+    "Question": "Configure Kubernetes Secrets",
+    "Answer": {
+      "Purpose": "This runbook provides detailed steps to perform the task: Configure Kubernetes Secrets. It ensures operational consistency and minimizes downtime.",
+      "Prerequisites": [
+        "Administrative access to systems",
+        "Network connectivity",
+        "Required tools (SSH, CLI, monitoring dashboards)",
+        "Dependencies verified"
+      ],
+      "Steps": [
+        "Verify current system status using monitoring tools or CLI commands.",
+        "Notify stakeholders about the planned activity and expected impact.",
+        "Execute task-specific commands (e.g., sudo systemctl restart app.service).",
+        "Validate outcome by checking service status, logs, and application accessibility.",
+        "Update incident tracker with details of the operation."
+      ],
+      "ExpectedOutcome": "The task completes successfully without errors. Services remain stable and accessible.",
+      "RollbackPlan": [
+        "If the task fails:",
+        "Revert to previous configuration snapshot or backup.",
+        "Restart dependent services if necessary.",
+        "Escalate to Level 2 support for troubleshooting."
+      ],
+      "Contacts": {
+        "Primary": {
+          "Name": "John Davis",
+          "Email": "john.davis@example.com",
+          "Phone": "+91-9337547987"
+        },
+        "Escalation": {
+          "Name": "Robert Jones",
+          "Email": "robert.jones@example.com",
+          "Phone": "+91-6993226727"
+        }
+      }
+    }
+  },
+  {
+    "Question": "Rotate Access Keys",
+    "Answer": {
+      "Purpose": "This runbook provides detailed steps to perform the task: Rotate Access Keys. It ensures operational consistency and minimizes downtime.",
+      "Prerequisites": [
+        "Administrative access to systems",
+        "Network connectivity",
+        "Required tools (SSH, CLI, monitoring dashboards)",
+        "Dependencies verified"
+      ],
+      "Steps": [
+        "Verify current system status using monitoring tools or CLI commands.",
+        "Notify stakeholders about the planned activity and expected impact.",
+        "Execute task-specific commands (e.g., sudo systemctl restart app.service).",
+        "Validate outcome by checking service status, logs, and application accessibility.",
+        "Update incident tracker with details of the operation."
+      ],
+      "ExpectedOutcome": "The task completes successfully without errors. Services remain stable and accessible.",
+      "RollbackPlan": [
+        "If the task fails:",
+        "Revert to previous configuration snapshot or backup.",
+        "Restart dependent services if necessary.",
+        "Escalate to Level 2 support for troubleshooting."
+      ],
+      "Contacts": {
+        "Primary": {
+          "Name": "Robert Johnson",
+          "Email": "robert.johnson@example.com",
+          "Phone": "+91-8971393558"
+        },
+        "Escalation": {
+          "Name": "John Johnson",
+          "Email": "john.johnson@example.com",
+          "Phone": "+91-7825890554"
+        }
+      }
+    }
+  },
+  {
+    "Question": "Setup Service Mesh",
+    "Answer": {
+      "Purpose": "This runbook provides detailed steps to perform the task: Setup Service Mesh. It ensures operational consistency and minimizes downtime.",
+      "Prerequisites": [
+        "Administrative access to systems",
+        "Network connectivity",
+        "Required tools (SSH, CLI, monitoring dashboards)",
+        "Dependencies verified"
+      ],
+      "Steps": [
+        "Verify current system status using monitoring tools or CLI commands.",
+        "Notify stakeholders about the planned activity and expected impact.",
+        "Execute task-specific commands (e.g., sudo systemctl restart app.service).",
+        "Validate outcome by checking service status, logs, and application accessibility.",
+        "Update incident tracker with details of the operation."
+      ],
+      "ExpectedOutcome": "The task completes successfully without errors. Services remain stable and accessible.",
+      "RollbackPlan": [
+        "If the task fails:",
+        "Revert to previous configuration snapshot or backup.",
+        "Restart dependent services if necessary.",
+        "Escalate to Level 2 support for troubleshooting."
+      ],
+      "Contacts": {
+        "Primary": {
+          "Name": "Sophia Taylor",
+          "Email": "sophia.taylor@example.com",
+          "Phone": "+91-9256408550"
+        },
+        "Escalation": {
+          "Name": "Jane Johnson",
+          "Email": "jane.johnson@example.com",
+          "Phone": "+91-6528859942"
+        }
+      }
+    }
+  },
+  {
+    "Question": "Configure Load Testing",
+    "Answer": {
+      "Purpose": "This runbook provides detailed steps to perform the task: Configure Load Testing. It ensures operational consistency and minimizes downtime.",
+      "Prerequisites": [
+        "Administrative access to systems",
+        "Network connectivity",
+        "Required tools (SSH, CLI, monitoring dashboards)",
+        "Dependencies verified"
+      ],
+      "Steps": [
+        "Verify current system status using monitoring tools or CLI commands.",
+        "Notify stakeholders about the planned activity and expected impact.",
+        "Execute task-specific commands (e.g., sudo systemctl restart app.service).",
+        "Validate outcome by checking service status, logs, and application accessibility.",
+        "Update incident tracker with details of the operation."
+      ],
+      "ExpectedOutcome": "The task completes successfully without errors. Services remain stable and accessible.",
+      "RollbackPlan": [
+        "If the task fails:",
+        "Revert to previous configuration snapshot or backup.",
+        "Restart dependent services if necessary.",
+        "Escalate to Level 2 support for troubleshooting."
+      ],
+      "Contacts": {
+        "Primary": {
+          "Name": "Michael Smith",
+          "Email": "michael.smith@example.com",
+          "Phone": "+91-6288218612"
+        },
+        "Escalation": {
+          "Name": "Emma Garcia",
+          "Email": "emma.garcia@example.com",
+          "Phone": "+91-7794538142"
+        }
+      }
+    }
+  },
+  {
+    "Question": "Setup Performance Monitoring",
+    "Answer": {
+      "Purpose": "This runbook provides detailed steps to perform the task: Setup Performance Monitoring. It ensures operational consistency and minimizes downtime.",
+      "Prerequisites": [
+        "Administrative access to systems",
+        "Network connectivity",
+        "Required tools (SSH, CLI, monitoring dashboards)",
+        "Dependencies verified"
+      ],
+      "Steps": [
+        "Verify current system status using monitoring tools or CLI commands.",
+        "Notify stakeholders about the planned activity and expected impact.",
+        "Execute task-specific commands (e.g., sudo systemctl restart app.service).",
+        "Validate outcome by checking service status, logs, and application accessibility.",
+        "Update incident tracker with details of the operation."
+      ],
+      "ExpectedOutcome": "The task completes successfully without errors. Services remain stable and accessible.",
+      "RollbackPlan": [
+        "If the task fails:",
+        "Revert to previous configuration snapshot or backup.",
+        "Restart dependent services if necessary.",
+        "Escalate to Level 2 support for troubleshooting."
+      ],
+      "Contacts": {
+        "Primary": {
+          "Name": "Robert Davis",
+          "Email": "robert.davis@example.com",
+          "Phone": "+91-7790938538"
+        },
+        "Escalation": {
+          "Name": "Daniel Johnson",
+          "Email": "daniel.johnson@example.com",
+          "Phone": "+91-6545086139"
+        }
+      }
+    }
+  },
+  {
+    "Question": "Configure Application Autoscaling",
+    "Answer": {
+      "Purpose": "This runbook provides detailed steps to perform the task: Configure Application Autoscaling. It ensures operational consistency and minimizes downtime.",
+      "Prerequisites": [
+        "Administrative access to systems",
+        "Network connectivity",
+        "Required tools (SSH, CLI, monitoring dashboards)",
+        "Dependencies verified"
+      ],
+      "Steps": [
+        "Verify current system status using monitoring tools or CLI commands.",
+        "Notify stakeholders about the planned activity and expected impact.",
+        "Execute task-specific commands (e.g., sudo systemctl restart app.service).",
+        "Validate outcome by checking service status, logs, and application accessibility.",
+        "Update incident tracker with details of the operation."
+      ],
+      "ExpectedOutcome": "The task completes successfully without errors. Services remain stable and accessible.",
+      "RollbackPlan": [
+        "If the task fails:",
+        "Revert to previous configuration snapshot or backup.",
+        "Restart dependent services if necessary.",
+        "Escalate to Level 2 support for troubleshooting."
+      ],
+      "Contacts": {
+        "Primary": {
+          "Name": "Daniel Williams",
+          "Email": "daniel.williams@example.com",
+          "Phone": "+91-6013917804"
+        },
+        "Escalation": {
+          "Name": "Jane Jones",
+          "Email": "jane.jones@example.com",
+          "Phone": "+91-6063999113"
+        }
+      }
+    }
+  },
+  {
+    "Question": "Setup Blue-Green Deployment",
+    "Answer": {
+      "Purpose": "This runbook provides detailed steps to perform the task: Setup Blue-Green Deployment. It ensures operational consistency and minimizes downtime.",
+      "Prerequisites": [
+        "Administrative access to systems",
+        "Network connectivity",
+        "Required tools (SSH, CLI, monitoring dashboards)",
+        "Dependencies verified"
+      ],
+      "Steps": [
+        "Verify current system status using monitoring tools or CLI commands.",
+        "Notify stakeholders about the planned activity and expected impact.",
+        "Execute task-specific commands (e.g., sudo systemctl restart app.service).",
+        "Validate outcome by checking service status, logs, and application accessibility.",
+        "Update incident tracker with details of the operation."
+      ],
+      "ExpectedOutcome": "The task completes successfully without errors. Services remain stable and accessible.",
+      "RollbackPlan": [
+        "If the task fails:",
+        "Revert to previous configuration snapshot or backup.",
+        "Restart dependent services if necessary.",
+        "Escalate to Level 2 support for troubleshooting."
+      ],
+      "Contacts": {
+        "Primary": {
+          "Name": "Emma Garcia",
+          "Email": "emma.garcia@example.com",
+          "Phone": "+91-6579761286"
+        },
+        "Escalation": {
+          "Name": "Emily Williams",
+          "Email": "emily.williams@example.com",
+          "Phone": "+91-6844624292"
+        }
+      }
+    }
+  },
+  {
+    "Question": "Setup Canary Deployment",
+    "Answer": {
+      "Purpose": "This runbook provides detailed steps to perform the task: Setup Canary Deployment. It ensures operational consistency and minimizes downtime.",
+      "Prerequisites": [
+        "Administrative access to systems",
+        "Network connectivity",
+        "Required tools (SSH, CLI, monitoring dashboards)",
+        "Dependencies verified"
+      ],
+      "Steps": [
+        "Verify current system status using monitoring tools or CLI commands.",
+        "Notify stakeholders about the planned activity and expected impact.",
+        "Execute task-specific commands (e.g., sudo systemctl restart app.service).",
+        "Validate outcome by checking service status, logs, and application accessibility.",
+        "Update incident tracker with details of the operation."
+      ],
+      "ExpectedOutcome": "The task completes successfully without errors. Services remain stable and accessible.",
+      "RollbackPlan": [
+        "If the task fails:",
+        "Revert to previous configuration snapshot or backup.",
+        "Restart dependent services if necessary.",
+        "Escalate to Level 2 support for troubleshooting."
+      ],
+      "Contacts": {
+        "Primary": {
+          "Name": "Olivia Davis",
+          "Email": "olivia.davis@example.com",
+          "Phone": "+91-7454424849"
+        },
+        "Escalation": {
+          "Name": "Olivia Williams",
+          "Email": "olivia.williams@example.com",
+          "Phone": "+91-7298202906"
+        }
+      }
+    }
+  },
+  {
+    "Question": "Configure Git Repository",
+    "Answer": {
+      "Purpose": "This runbook provides detailed steps to perform the task: Configure Git Repository. It ensures operational consistency and minimizes downtime.",
+      "Prerequisites": [
+        "Administrative access to systems",
+        "Network connectivity",
+        "Required tools (SSH, CLI, monitoring dashboards)",
+        "Dependencies verified"
+      ],
+      "Steps": [
+        "Verify current system status using monitoring tools or CLI commands.",
+        "Notify stakeholders about the planned activity and expected impact.",
+        "Execute task-specific commands (e.g., sudo systemctl restart app.service).",
+        "Validate outcome by checking service status, logs, and application accessibility.",
+        "Update incident tracker with details of the operation."
+      ],
+      "ExpectedOutcome": "The task completes successfully without errors. Services remain stable and accessible.",
+      "RollbackPlan": [
+        "If the task fails:",
+        "Revert to previous configuration snapshot or backup.",
+        "Restart dependent services if necessary.",
+        "Escalate to Level 2 support for troubleshooting."
+      ],
+      "Contacts": {
+        "Primary": {
+          "Name": "Emma Martinez",
+          "Email": "emma.martinez@example.com",
+          "Phone": "+91-8567719422"
+        },
+        "Escalation": {
+          "Name": "Sophia Miller",
+          "Email": "sophia.miller@example.com",
+          "Phone": "+91-8084557414"
+        }
+      }
+    }
+  },
+  {
+    "Question": "Setup Git Hooks",
+    "Answer": {
+      "Purpose": "This runbook provides detailed steps to perform the task: Setup Git Hooks. It ensures operational consistency and minimizes downtime.",
+      "Prerequisites": [
+        "Administrative access to systems",
+        "Network connectivity",
+        "Required tools (SSH, CLI, monitoring dashboards)",
+        "Dependencies verified"
+      ],
+      "Steps": [
+        "Verify current system status using monitoring tools or CLI commands.",
+        "Notify stakeholders about the planned activity and expected impact.",
+        "Execute task-specific commands (e.g., sudo systemctl restart app.service).",
+        "Validate outcome by checking service status, logs, and application accessibility.",
+        "Update incident tracker with details of the operation."
+      ],
+      "ExpectedOutcome": "The task completes successfully without errors. Services remain stable and accessible.",
+      "RollbackPlan": [
+        "If the task fails:",
+        "Revert to previous configuration snapshot or backup.",
+        "Restart dependent services if necessary.",
+        "Escalate to Level 2 support for troubleshooting."
+      ],
+      "Contacts": {
+        "Primary": {
+          "Name": "Daniel Johnson",
+          "Email": "daniel.johnson@example.com",
+          "Phone": "+91-8858699534"
+        },
+        "Escalation": {
+          "Name": "Robert Davis",
+          "Email": "robert.davis@example.com",
+          "Phone": "+91-6400475685"
+        }
+      }
+    }
+  },
+  {
+    "Question": "Configure Jenkins Pipeline",
+    "Answer": {
+      "Purpose": "This runbook provides detailed steps to perform the task: Configure Jenkins Pipeline. It ensures operational consistency and minimizes downtime.",
+      "Prerequisites": [
+        "Administrative access to systems",
+        "Network connectivity",
+        "Required tools (SSH, CLI, monitoring dashboards)",
+        "Dependencies verified"
+      ],
+      "Steps": [
+        "Verify current system status using monitoring tools or CLI commands.",
+        "Notify stakeholders about the planned activity and expected impact.",
+        "Execute task-specific commands (e.g., sudo systemctl restart app.service).",
+        "Validate outcome by checking service status, logs, and application accessibility.",
+        "Update incident tracker with details of the operation."
+      ],
+      "ExpectedOutcome": "The task completes successfully without errors. Services remain stable and accessible.",
+      "RollbackPlan": [
+        "If the task fails:",
+        "Revert to previous configuration snapshot or backup.",
+        "Restart dependent services if necessary.",
+        "Escalate to Level 2 support for troubleshooting."
+      ],
+      "Contacts": {
+        "Primary": {
+          "Name": "Michael Davis",
+          "Email": "michael.davis@example.com",
+          "Phone": "+91-9023599078"
+        },
+        "Escalation": {
+          "Name": "Jane Miller",
+          "Email": "jane.miller@example.com",
+          "Phone": "+91-7527900771"
+        }
+      }
+    }
+  },
+  {
+    "Question": "Setup SonarQube for Code Quality",
+    "Answer": {
+      "Purpose": "This runbook provides detailed steps to perform the task: Setup SonarQube for Code Quality. It ensures operational consistency and minimizes downtime.",
+      "Prerequisites": [
+        "Administrative access to systems",
+        "Network connectivity",
+        "Required tools (SSH, CLI, monitoring dashboards)",
+        "Dependencies verified"
+      ],
+      "Steps": [
+        "Verify current system status using monitoring tools or CLI commands.",
+        "Notify stakeholders about the planned activity and expected impact.",
+        "Execute task-specific commands (e.g., sudo systemctl restart app.service).",
+        "Validate outcome by checking service status, logs, and application accessibility.",
+        "Update incident tracker with details of the operation."
+      ],
+      "ExpectedOutcome": "The task completes successfully without errors. Services remain stable and accessible.",
+      "RollbackPlan": [
+        "If the task fails:",
+        "Revert to previous configuration snapshot or backup.",
+        "Restart dependent services if necessary.",
+        "Escalate to Level 2 support for troubleshooting."
+      ],
+      "Contacts": {
+        "Primary": {
+          "Name": "David Smith",
+          "Email": "david.smith@example.com",
+          "Phone": "+91-8563822712"
+        },
+        "Escalation": {
+          "Name": "Robert Brown",
+          "Email": "robert.brown@example.com",
+          "Phone": "+91-8616144569"
+        }
+      }
+    }
+  },
+  {
+    "Question": "Configure Nexus Repository",
+    "Answer": {
+      "Purpose": "This runbook provides detailed steps to perform the task: Configure Nexus Repository. It ensures operational consistency and minimizes downtime.",
+      "Prerequisites": [
+        "Administrative access to systems",
+        "Network connectivity",
+        "Required tools (SSH, CLI, monitoring dashboards)",
+        "Dependencies verified"
+      ],
+      "Steps": [
+        "Verify current system status using monitoring tools or CLI commands.",
+        "Notify stakeholders about the planned activity and expected impact.",
+        "Execute task-specific commands (e.g., sudo systemctl restart app.service).",
+        "Validate outcome by checking service status, logs, and application accessibility.",
+        "Update incident tracker with details of the operation."
+      ],
+      "ExpectedOutcome": "The task completes successfully without errors. Services remain stable and accessible.",
+      "RollbackPlan": [
+        "If the task fails:",
+        "Revert to previous configuration snapshot or backup.",
+        "Restart dependent services if necessary.",
+        "Escalate to Level 2 support for troubleshooting."
+      ],
+      "Contacts": {
+        "Primary": {
+          "Name": "Jane Miller",
+          "Email": "jane.miller@example.com",
+          "Phone": "+91-6930420367"
+        },
+        "Escalation": {
+          "Name": "Jane Brown",
+          "Email": "jane.brown@example.com",
+          "Phone": "+91-6238206241"
+        }
+      }
+    }
+  },
+  {
+    "Question": "Setup Artifact Management",
+    "Answer": {
+      "Purpose": "This runbook provides detailed steps to perform the task: Setup Artifact Management. It ensures operational consistency and minimizes downtime.",
+      "Prerequisites": [
+        "Administrative access to systems",
+        "Network connectivity",
+        "Required tools (SSH, CLI, monitoring dashboards)",
+        "Dependencies verified"
+      ],
+      "Steps": [
+        "Verify current system status using monitoring tools or CLI commands.",
+        "Notify stakeholders about the planned activity and expected impact.",
+        "Execute task-specific commands (e.g., sudo systemctl restart app.service).",
+        "Validate outcome by checking service status, logs, and application accessibility.",
+        "Update incident tracker with details of the operation."
+      ],
+      "ExpectedOutcome": "The task completes successfully without errors. Services remain stable and accessible.",
+      "RollbackPlan": [
+        "If the task fails:",
+        "Revert to previous configuration snapshot or backup.",
+        "Restart dependent services if necessary.",
+        "Escalate to Level 2 support for troubleshooting."
+      ],
+      "Contacts": {
+        "Primary": {
+          "Name": "Emma Smith",
+          "Email": "emma.smith@example.com",
+          "Phone": "+91-9484664534"
+        },
+        "Escalation": {
+          "Name": "Emma Davis",
+          "Email": "emma.davis@example.com",
+          "Phone": "+91-7990997299"
+        }
+      }
+    }
+  },
+  {
+    "Question": "Configure Backup for Cloud Databases",
+    "Answer": {
+      "Purpose": "This runbook provides detailed steps to perform the task: Configure Backup for Cloud Databases. It ensures operational consistency and minimizes downtime.",
+      "Prerequisites": [
+        "Administrative access to systems",
+        "Network connectivity",
+        "Required tools (SSH, CLI, monitoring dashboards)",
+        "Dependencies verified"
+      ],
+      "Steps": [
+        "Verify current system status using monitoring tools or CLI commands.",
+        "Notify stakeholders about the planned activity and expected impact.",
+        "Execute task-specific commands (e.g., sudo systemctl restart app.service).",
+        "Validate outcome by checking service status, logs, and application accessibility.",
+        "Update incident tracker with details of the operation."
+      ],
+      "ExpectedOutcome": "The task completes successfully without errors. Services remain stable and accessible.",
+      "RollbackPlan": [
+        "If the task fails:",
+        "Revert to previous configuration snapshot or backup.",
+        "Restart dependent services if necessary.",
+        "Escalate to Level 2 support for troubleshooting."
+      ],
+      "Contacts": {
+        "Primary": {
+          "Name": "John Garcia",
+          "Email": "john.garcia@example.com",
+          "Phone": "+91-6598642935"
+        },
+        "Escalation": {
+          "Name": "Sophia Johnson",
+          "Email": "sophia.johnson@example.com",
+          "Phone": "+91-6749182227"
+        }
+      }
+    }
+  },
+  {
+    "Question": "Setup CloudWatch Monitoring",
+    "Answer": {
+      "Purpose": "This runbook provides detailed steps to perform the task: Setup CloudWatch Monitoring. It ensures operational consistency and minimizes downtime.",
+      "Prerequisites": [
+        "Administrative access to systems",
+        "Network connectivity",
+        "Required tools (SSH, CLI, monitoring dashboards)",
+        "Dependencies verified"
+      ],
+      "Steps": [
+        "Verify current system status using monitoring tools or CLI commands.",
+        "Notify stakeholders about the planned activity and expected impact.",
+        "Execute task-specific commands (e.g., sudo systemctl restart app.service).",
+        "Validate outcome by checking service status, logs, and application accessibility.",
+        "Update incident tracker with details of the operation."
+      ],
+      "ExpectedOutcome": "The task completes successfully without errors. Services remain stable and accessible.",
+      "RollbackPlan": [
+        "If the task fails:",
+        "Revert to previous configuration snapshot or backup.",
+        "Restart dependent services if necessary.",
+        "Escalate to Level 2 support for troubleshooting."
+      ],
+      "Contacts": {
+        "Primary": {
+          "Name": "Robert Miller",
+          "Email": "robert.miller@example.com",
+          "Phone": "+91-6556784015"
+        },
+        "Escalation": {
+          "Name": "Daniel Brown",
+          "Email": "daniel.brown@example.com",
+          "Phone": "+91-7616645897"
+        }
+      }
+    }
+  },
+  {
+    "Question": "Configure Azure Monitor",
+    "Answer": {
+      "Purpose": "This runbook provides detailed steps to perform the task: Configure Azure Monitor. It ensures operational consistency and minimizes downtime.",
+      "Prerequisites": [
+        "Administrative access to systems",
+        "Network connectivity",
+        "Required tools (SSH, CLI, monitoring dashboards)",
+        "Dependencies verified"
+      ],
+      "Steps": [
+        "Verify current system status using monitoring tools or CLI commands.",
+        "Notify stakeholders about the planned activity and expected impact.",
+        "Execute task-specific commands (e.g., sudo systemctl restart app.service).",
+        "Validate outcome by checking service status, logs, and application accessibility.",
+        "Update incident tracker with details of the operation."
+      ],
+      "ExpectedOutcome": "The task completes successfully without errors. Services remain stable and accessible.",
+      "RollbackPlan": [
+        "If the task fails:",
+        "Revert to previous configuration snapshot or backup.",
+        "Restart dependent services if necessary.",
+        "Escalate to Level 2 support for troubleshooting."
+      ],
+      "Contacts": {
+        "Primary": {
+          "Name": "Robert Jones",
+          "Email": "robert.jones@example.com",
+          "Phone": "+91-6867144814"
+        },
+        "Escalation": {
+          "Name": "David Brown",
+          "Email": "david.brown@example.com",
+          "Phone": "+91-8797761939"
+        }
+      }
+    }
+  },
+  {
+    "Question": "Setup GCP Stackdriver",
+    "Answer": {
+      "Purpose": "This runbook provides detailed steps to perform the task: Setup GCP Stackdriver. It ensures operational consistency and minimizes downtime.",
+      "Prerequisites": [
+        "Administrative access to systems",
+        "Network connectivity",
+        "Required tools (SSH, CLI, monitoring dashboards)",
+        "Dependencies verified"
+      ],
+      "Steps": [
+        "Verify current system status using monitoring tools or CLI commands.",
+        "Notify stakeholders about the planned activity and expected impact.",
+        "Execute task-specific commands (e.g., sudo systemctl restart app.service).",
+        "Validate outcome by checking service status, logs, and application accessibility.",
+        "Update incident tracker with details of the operation."
+      ],
+      "ExpectedOutcome": "The task completes successfully without errors. Services remain stable and accessible.",
+      "RollbackPlan": [
+        "If the task fails:",
+        "Revert to previous configuration snapshot or backup.",
+        "Restart dependent services if necessary.",
+        "Escalate to Level 2 support for troubleshooting."
+      ],
+      "Contacts": {
+        "Primary": {
+          "Name": "Daniel Martinez",
+          "Email": "daniel.martinez@example.com",
+          "Phone": "+91-9877641910"
+        },
+        "Escalation": {
+          "Name": "Olivia Miller",
+          "Email": "olivia.miller@example.com",
+          "Phone": "+91-7237027633"
+        }
+      }
+    }
+  },
+  {
+    "Question": "Configure Security Groups",
+    "Answer": {
+      "Purpose": "This runbook provides detailed steps to perform the task: Configure Security Groups. It ensures operational consistency and minimizes downtime.",
+      "Prerequisites": [
+        "Administrative access to systems",
+        "Network connectivity",
+        "Required tools (SSH, CLI, monitoring dashboards)",
+        "Dependencies verified"
+      ],
+      "Steps": [
+        "Verify current system status using monitoring tools or CLI commands.",
+        "Notify stakeholders about the planned activity and expected impact.",
+        "Execute task-specific commands (e.g., sudo systemctl restart app.service).",
+        "Validate outcome by checking service status, logs, and application accessibility.",
+        "Update incident tracker with details of the operation."
+      ],
+      "ExpectedOutcome": "The task completes successfully without errors. Services remain stable and accessible.",
+      "RollbackPlan": [
+        "If the task fails:",
+        "Revert to previous configuration snapshot or backup.",
+        "Restart dependent services if necessary.",
+        "Escalate to Level 2 support for troubleshooting."
+      ],
+      "Contacts": {
+        "Primary": {
+          "Name": "David Garcia",
+          "Email": "david.garcia@example.com",
+          "Phone": "+91-6103135114"
+        },
+        "Escalation": {
+          "Name": "Michael Johnson",
+          "Email": "michael.johnson@example.com",
+          "Phone": "+91-6374751848"
+        }
+      }
+    }
+  },
+  {
+    "Question": "Setup Network ACLs",
+    "Answer": {
+      "Purpose": "This runbook provides detailed steps to perform the task: Setup Network ACLs. It ensures operational consistency and minimizes downtime.",
+      "Prerequisites": [
+        "Administrative access to systems",
+        "Network connectivity",
+        "Required tools (SSH, CLI, monitoring dashboards)",
+        "Dependencies verified"
+      ],
+      "Steps": [
+        "Verify current system status using monitoring tools or CLI commands.",
+        "Notify stakeholders about the planned activity and expected impact.",
+        "Execute task-specific commands (e.g., sudo systemctl restart app.service).",
+        "Validate outcome by checking service status, logs, and application accessibility.",
+        "Update incident tracker with details of the operation."
+      ],
+      "ExpectedOutcome": "The task completes successfully without errors. Services remain stable and accessible.",
+      "RollbackPlan": [
+        "If the task fails:",
+        "Revert to previous configuration snapshot or backup.",
+        "Restart dependent services if necessary.",
+        "Escalate to Level 2 support for troubleshooting."
+      ],
+      "Contacts": {
+        "Primary": {
+          "Name": "David Garcia",
+          "Email": "david.garcia@example.com",
+          "Phone": "+91-7091738090"
+        },
+        "Escalation": {
+          "Name": "Michael Johnson",
+          "Email": "michael.johnson@example.com",
+          "Phone": "+91-7802742030"
+        }
+      }
+    }
+  },
+  {
+    "Question": "Configure VPC Peering",
+    "Answer": {
+      "Purpose": "This runbook provides detailed steps to perform the task: Configure VPC Peering. It ensures operational consistency and minimizes downtime.",
+      "Prerequisites": [
+        "Administrative access to systems",
+        "Network connectivity",
+        "Required tools (SSH, CLI, monitoring dashboards)",
+        "Dependencies verified"
+      ],
+      "Steps": [
+        "Verify current system status using monitoring tools or CLI commands.",
+        "Notify stakeholders about the planned activity and expected impact.",
+        "Execute task-specific commands (e.g., sudo systemctl restart app.service).",
+        "Validate outcome by checking service status, logs, and application accessibility.",
+        "Update incident tracker with details of the operation."
+      ],
+      "ExpectedOutcome": "The task completes successfully without errors. Services remain stable and accessible.",
+      "RollbackPlan": [
+        "If the task fails:",
+        "Revert to previous configuration snapshot or backup.",
+        "Restart dependent services if necessary.",
+        "Escalate to Level 2 support for troubleshooting."
+      ],
+      "Contacts": {
+        "Primary": {
+          "Name": "Robert Taylor",
+          "Email": "robert.taylor@example.com",
+          "Phone": "+91-6600467023"
+        },
+        "Escalation": {
+          "Name": "Jane Smith",
+          "Email": "jane.smith@example.com",
+          "Phone": "+91-7880083533"
+        }
+      }
+    }
+  },
+  {
+    "Question": "Setup Private Link",
+    "Answer": {
+      "Purpose": "This runbook provides detailed steps to perform the task: Setup Private Link. It ensures operational consistency and minimizes downtime.",
+      "Prerequisites": [
+        "Administrative access to systems",
+        "Network connectivity",
+        "Required tools (SSH, CLI, monitoring dashboards)",
+        "Dependencies verified"
+      ],
+      "Steps": [
+        "Verify current system status using monitoring tools or CLI commands.",
+        "Notify stakeholders about the planned activity and expected impact.",
+        "Execute task-specific commands (e.g., sudo systemctl restart app.service).",
+        "Validate outcome by checking service status, logs, and application accessibility.",
+        "Update incident tracker with details of the operation."
+      ],
+      "ExpectedOutcome": "The task completes successfully without errors. Services remain stable and accessible.",
+      "RollbackPlan": [
+        "If the task fails:",
+        "Revert to previous configuration snapshot or backup.",
+        "Restart dependent services if necessary.",
+        "Escalate to Level 2 support for troubleshooting."
+      ],
+      "Contacts": {
+        "Primary": {
+          "Name": "Emma Miller",
+          "Email": "emma.miller@example.com",
+          "Phone": "+91-7923528944"
+        },
+        "Escalation": {
+          "Name": "Olivia Jones",
+          "Email": "olivia.jones@example.com",
+          "Phone": "+91-6484044418"
+        }
+      }
+    }
+  },
+  {
+    "Question": "Configure Hybrid Cloud Connectivity",
+    "Answer": {
+      "Purpose": "This runbook provides detailed steps to perform the task: Configure Hybrid Cloud Connectivity. It ensures operational consistency and minimizes downtime.",
+      "Prerequisites": [
+        "Administrative access to systems",
+        "Network connectivity",
+        "Required tools (SSH, CLI, monitoring dashboards)",
+        "Dependencies verified"
+      ],
+      "Steps": [
+        "Verify current system status using monitoring tools or CLI commands.",
+        "Notify stakeholders about the planned activity and expected impact.",
+        "Execute task-specific commands (e.g., sudo systemctl restart app.service).",
+        "Validate outcome by checking service status, logs, and application accessibility.",
+        "Update incident tracker with details of the operation."
+      ],
+      "ExpectedOutcome": "The task completes successfully without errors. Services remain stable and accessible.",
+      "RollbackPlan": [
+        "If the task fails:",
+        "Revert to previous configuration snapshot or backup.",
+        "Restart dependent services if necessary.",
+        "Escalate to Level 2 support for troubleshooting."
+      ],
+      "Contacts": {
+        "Primary": {
+          "Name": "David Johnson",
+          "Email": "david.johnson@example.com",
+          "Phone": "+91-7845085582"
+        },
+        "Escalation": {
+          "Name": "John Jones",
+          "Email": "john.jones@example.com",
+          "Phone": "+91-8241306302"
+        }
+      }
+    }
+  },
+  {
+    "Question": "Setup Site-to-Site VPN",
+    "Answer": {
+      "Purpose": "This runbook provides detailed steps to perform the task: Setup Site-to-Site VPN. It ensures operational consistency and minimizes downtime.",
+      "Prerequisites": [
+        "Administrative access to systems",
+        "Network connectivity",
+        "Required tools (SSH, CLI, monitoring dashboards)",
+        "Dependencies verified"
+      ],
+      "Steps": [
+        "Verify current system status using monitoring tools or CLI commands.",
+        "Notify stakeholders about the planned activity and expected impact.",
+        "Execute task-specific commands (e.g., sudo systemctl restart app.service).",
+        "Validate outcome by checking service status, logs, and application accessibility.",
+        "Update incident tracker with details of the operation."
+      ],
+      "ExpectedOutcome": "The task completes successfully without errors. Services remain stable and accessible.",
+      "RollbackPlan": [
+        "If the task fails:",
+        "Revert to previous configuration snapshot or backup.",
+        "Restart dependent services if necessary.",
+        "Escalate to Level 2 support for troubleshooting."
+      ],
+      "Contacts": {
+        "Primary": {
+          "Name": "Olivia Williams",
+          "Email": "olivia.williams@example.com",
+          "Phone": "+91-8335677723"
+        },
+        "Escalation": {
+          "Name": "David Johnson",
+          "Email": "david.johnson@example.com",
+          "Phone": "+91-6527308646"
+        }
+      }
+    }
+  },
+  {
+    "Question": "Configure DNS Failover",
+    "Answer": {
+      "Purpose": "This runbook provides detailed steps to perform the task: Configure DNS Failover. It ensures operational consistency and minimizes downtime.",
+      "Prerequisites": [
+        "Administrative access to systems",
+        "Network connectivity",
+        "Required tools (SSH, CLI, monitoring dashboards)",
+        "Dependencies verified"
+      ],
+      "Steps": [
+        "Verify current system status using monitoring tools or CLI commands.",
+        "Notify stakeholders about the planned activity and expected impact.",
+        "Execute task-specific commands (e.g., sudo systemctl restart app.service).",
+        "Validate outcome by checking service status, logs, and application accessibility.",
+        "Update incident tracker with details of the operation."
+      ],
+      "ExpectedOutcome": "The task completes successfully without errors. Services remain stable and accessible.",
+      "RollbackPlan": [
+        "If the task fails:",
+        "Revert to previous configuration snapshot or backup.",
+        "Restart dependent services if necessary.",
+        "Escalate to Level 2 support for troubleshooting."
+      ],
+      "Contacts": {
+        "Primary": {
+          "Name": "Emily Brown",
+          "Email": "emily.brown@example.com",
+          "Phone": "+91-9572230598"
+        },
+        "Escalation": {
+          "Name": "Emily Smith",
+          "Email": "emily.smith@example.com",
+          "Phone": "+91-6744426626"
+        }
+      }
+    }
+  },
+  {
+    "Question": "Setup High Availability Cluster",
+    "Answer": {
+      "Purpose": "This runbook provides detailed steps to perform the task: Setup High Availability Cluster. It ensures operational consistency and minimizes downtime.",
+      "Prerequisites": [
+        "Administrative access to systems",
+        "Network connectivity",
+        "Required tools (SSH, CLI, monitoring dashboards)",
+        "Dependencies verified"
+      ],
+      "Steps": [
+        "Verify current system status using monitoring tools or CLI commands.",
+        "Notify stakeholders about the planned activity and expected impact.",
+        "Execute task-specific commands (e.g., sudo systemctl restart app.service).",
+        "Validate outcome by checking service status, logs, and application accessibility.",
+        "Update incident tracker with details of the operation."
+      ],
+      "ExpectedOutcome": "The task completes successfully without errors. Services remain stable and accessible.",
+      "RollbackPlan": [
+        "If the task fails:",
+        "Revert to previous configuration snapshot or backup.",
+        "Restart dependent services if necessary.",
+        "Escalate to Level 2 support for troubleshooting."
+      ],
+      "Contacts": {
+        "Primary": {
+          "Name": "David Garcia",
+          "Email": "david.garcia@example.com",
+          "Phone": "+91-7017974736"
+        },
+        "Escalation": {
+          "Name": "John Martinez",
+          "Email": "john.martinez@example.com",
+          "Phone": "+91-6548675601"
+        }
+      }
+    }
+  },
+  {
+    "Question": "Configure Load Balancer Health Checks",
+    "Answer": {
+      "Purpose": "This runbook provides detailed steps to perform the task: Configure Load Balancer Health Checks. It ensures operational consistency and minimizes downtime.",
+      "Prerequisites": [
+        "Administrative access to systems",
+        "Network connectivity",
+        "Required tools (SSH, CLI, monitoring dashboards)",
+        "Dependencies verified"
+      ],
+      "Steps": [
+        "Verify current system status using monitoring tools or CLI commands.",
+        "Notify stakeholders about the planned activity and expected impact.",
+        "Execute task-specific commands (e.g., sudo systemctl restart app.service).",
+        "Validate outcome by checking service status, logs, and application accessibility.",
+        "Update incident tracker with details of the operation."
+      ],
+      "ExpectedOutcome": "The task completes successfully without errors. Services remain stable and accessible.",
+      "RollbackPlan": [
+        "If the task fails:",
+        "Revert to previous configuration snapshot or backup.",
+        "Restart dependent services if necessary.",
+        "Escalate to Level 2 support for troubleshooting."
+      ],
+      "Contacts": {
+        "Primary": {
+          "Name": "Olivia Jones",
+          "Email": "olivia.jones@example.com",
+          "Phone": "+91-6140637730"
+        },
+        "Escalation": {
+          "Name": "Robert Jones",
+          "Email": "robert.jones@example.com",
+          "Phone": "+91-9243638064"
+        }
+      }
+    }
+  },
+  {
+    "Question": "Setup SSL Termination",
+    "Answer": {
+      "Purpose": "This runbook provides detailed steps to perform the task: Setup SSL Termination. It ensures operational consistency and minimizes downtime.",
+      "Prerequisites": [
+        "Administrative access to systems",
+        "Network connectivity",
+        "Required tools (SSH, CLI, monitoring dashboards)",
+        "Dependencies verified"
+      ],
+      "Steps": [
+        "Verify current system status using monitoring tools or CLI commands.",
+        "Notify stakeholders about the planned activity and expected impact.",
+        "Execute task-specific commands (e.g., sudo systemctl restart app.service).",
+        "Validate outcome by checking service status, logs, and application accessibility.",
+        "Update incident tracker with details of the operation."
+      ],
+      "ExpectedOutcome": "The task completes successfully without errors. Services remain stable and accessible.",
+      "RollbackPlan": [
+        "If the task fails:",
+        "Revert to previous configuration snapshot or backup.",
+        "Restart dependent services if necessary.",
+        "Escalate to Level 2 support for troubleshooting."
+      ],
+      "Contacts": {
+        "Primary": {
+          "Name": "Emma Smith",
+          "Email": "emma.smith@example.com",
+          "Phone": "+91-9533553875"
+        },
+        "Escalation": {
+          "Name": "Daniel Williams",
+          "Email": "daniel.williams@example.com",
+          "Phone": "+91-6956871627"
+        }
+      }
+    }
+  },
+  {
+    "Question": "Configure Reverse Proxy",
+    "Answer": {
+      "Purpose": "This runbook provides detailed steps to perform the task: Configure Reverse Proxy. It ensures operational consistency and minimizes downtime.",
+      "Prerequisites": [
+        "Administrative access to systems",
+        "Network connectivity",
+        "Required tools (SSH, CLI, monitoring dashboards)",
+        "Dependencies verified"
+      ],
+      "Steps": [
+        "Verify current system status using monitoring tools or CLI commands.",
+        "Notify stakeholders about the planned activity and expected impact.",
+        "Execute task-specific commands (e.g., sudo systemctl restart app.service).",
+        "Validate outcome by checking service status, logs, and application accessibility.",
+        "Update incident tracker with details of the operation."
+      ],
+      "ExpectedOutcome": "The task completes successfully without errors. Services remain stable and accessible.",
+      "RollbackPlan": [
+        "If the task fails:",
+        "Revert to previous configuration snapshot or backup.",
+        "Restart dependent services if necessary.",
+        "Escalate to Level 2 support for troubleshooting."
+      ],
+      "Contacts": {
+        "Primary": {
+          "Name": "Robert Davis",
+          "Email": "robert.davis@example.com",
+          "Phone": "+91-7291418149"
+        },
+        "Escalation": {
+          "Name": "David Miller",
+          "Email": "david.miller@example.com",
+          "Phone": "+91-9136275459"
+        }
+      }
+    }
+  },
+  {
+    "Question": "Setup Application Gateway",
+    "Answer": {
+      "Purpose": "This runbook provides detailed steps to perform the task: Setup Application Gateway. It ensures operational consistency and minimizes downtime.",
+      "Prerequisites": [
+        "Administrative access to systems",
+        "Network connectivity",
+        "Required tools (SSH, CLI, monitoring dashboards)",
+        "Dependencies verified"
+      ],
+      "Steps": [
+        "Verify current system status using monitoring tools or CLI commands.",
+        "Notify stakeholders about the planned activity and expected impact.",
+        "Execute task-specific commands (e.g., sudo systemctl restart app.service).",
+        "Validate outcome by checking service status, logs, and application accessibility.",
+        "Update incident tracker with details of the operation."
+      ],
+      "ExpectedOutcome": "The task completes successfully without errors. Services remain stable and accessible.",
+      "RollbackPlan": [
+        "If the task fails:",
+        "Revert to previous configuration snapshot or backup.",
+        "Restart dependent services if necessary.",
+        "Escalate to Level 2 support for troubleshooting."
+      ],
+      "Contacts": {
+        "Primary": {
+          "Name": "Robert Brown",
+          "Email": "robert.brown@example.com",
+          "Phone": "+91-9237543321"
+        },
+        "Escalation": {
+          "Name": "Emma Martinez",
+          "Email": "emma.martinez@example.com",
+          "Phone": "+91-7464443450"
+        }
+      }
+    }
+  },
+  {
+    "Question": "Configure WAF",
+    "Answer": {
+      "Purpose": "This runbook provides detailed steps to perform the task: Configure WAF. It ensures operational consistency and minimizes downtime.",
+      "Prerequisites": [
+        "Administrative access to systems",
+        "Network connectivity",
+        "Required tools (SSH, CLI, monitoring dashboards)",
+        "Dependencies verified"
+      ],
+      "Steps": [
+        "Verify current system status using monitoring tools or CLI commands.",
+        "Notify stakeholders about the planned activity and expected impact.",
+        "Execute task-specific commands (e.g., sudo systemctl restart app.service).",
+        "Validate outcome by checking service status, logs, and application accessibility.",
+        "Update incident tracker with details of the operation."
+      ],
+      "ExpectedOutcome": "The task completes successfully without errors. Services remain stable and accessible.",
+      "RollbackPlan": [
+        "If the task fails:",
+        "Revert to previous configuration snapshot or backup.",
+        "Restart dependent services if necessary.",
+        "Escalate to Level 2 support for troubleshooting."
+      ],
+      "Contacts": {
+        "Primary": {
+          "Name": "Emily Davis",
+          "Email": "emily.davis@example.com",
+          "Phone": "+91-6587098667"
+        },
+        "Escalation": {
+          "Name": "John Garcia",
+          "Email": "john.garcia@example.com",
+          "Phone": "+91-9369932716"
+        }
+      }
+    }
+  },
+  {
+    "Question": "Setup DDoS Protection",
+    "Answer": {
+      "Purpose": "This runbook provides detailed steps to perform the task: Setup DDoS Protection. It ensures operational consistency and minimizes downtime.",
+      "Prerequisites": [
+        "Administrative access to systems",
+        "Network connectivity",
+        "Required tools (SSH, CLI, monitoring dashboards)",
+        "Dependencies verified"
+      ],
+      "Steps": [
+        "Verify current system status using monitoring tools or CLI commands.",
+        "Notify stakeholders about the planned activity and expected impact.",
+        "Execute task-specific commands (e.g., sudo systemctl restart app.service).",
+        "Validate outcome by checking service status, logs, and application accessibility.",
+        "Update incident tracker with details of the operation."
+      ],
+      "ExpectedOutcome": "The task completes successfully without errors. Services remain stable and accessible.",
+      "RollbackPlan": [
+        "If the task fails:",
+        "Revert to previous configuration snapshot or backup.",
+        "Restart dependent services if necessary.",
+        "Escalate to Level 2 support for troubleshooting."
+      ],
+      "Contacts": {
+        "Primary": {
+          "Name": "Olivia Johnson",
+          "Email": "olivia.johnson@example.com",
+          "Phone": "+91-7778606866"
+        },
+        "Escalation": {
+          "Name": "Robert Brown",
+          "Email": "robert.brown@example.com",
+          "Phone": "+91-9404723221"
+        }
+      }
+    }
+  },
+  {
+    "Question": "Configure Threat Detection",
+    "Answer": {
+      "Purpose": "This runbook provides detailed steps to perform the task: Configure Threat Detection. It ensures operational consistency and minimizes downtime.",
+      "Prerequisites": [
+        "Administrative access to systems",
+        "Network connectivity",
+        "Required tools (SSH, CLI, monitoring dashboards)",
+        "Dependencies verified"
+      ],
+      "Steps": [
+        "Verify current system status using monitoring tools or CLI commands.",
+        "Notify stakeholders about the planned activity and expected impact.",
+        "Execute task-specific commands (e.g., sudo systemctl restart app.service).",
+        "Validate outcome by checking service status, logs, and application accessibility.",
+        "Update incident tracker with details of the operation."
+      ],
+      "ExpectedOutcome": "The task completes successfully without errors. Services remain stable and accessible.",
+      "RollbackPlan": [
+        "If the task fails:",
+        "Revert to previous configuration snapshot or backup.",
+        "Restart dependent services if necessary.",
+        "Escalate to Level 2 support for troubleshooting."
+      ],
+      "Contacts": {
+        "Primary": {
+          "Name": "Emily Brown",
+          "Email": "emily.brown@example.com",
+          "Phone": "+91-6167175478"
+        },
+        "Escalation": {
+          "Name": "Olivia Brown",
+          "Email": "olivia.brown@example.com",
+          "Phone": "+91-9060873304"
+        }
+      }
+    }
+  },
+  {
+    "Question": "Setup SIEM Integration",
+    "Answer": {
+      "Purpose": "This runbook provides detailed steps to perform the task: Setup SIEM Integration. It ensures operational consistency and minimizes downtime.",
+      "Prerequisites": [
+        "Administrative access to systems",
+        "Network connectivity",
+        "Required tools (SSH, CLI, monitoring dashboards)",
+        "Dependencies verified"
+      ],
+      "Steps": [
+        "Verify current system status using monitoring tools or CLI commands.",
+        "Notify stakeholders about the planned activity and expected impact.",
+        "Execute task-specific commands (e.g., sudo systemctl restart app.service).",
+        "Validate outcome by checking service status, logs, and application accessibility.",
+        "Update incident tracker with details of the operation."
+      ],
+      "ExpectedOutcome": "The task completes successfully without errors. Services remain stable and accessible.",
+      "RollbackPlan": [
+        "If the task fails:",
+        "Revert to previous configuration snapshot or backup.",
+        "Restart dependent services if necessary.",
+        "Escalate to Level 2 support for troubleshooting."
+      ],
+      "Contacts": {
+        "Primary": {
+          "Name": "David Martinez",
+          "Email": "david.martinez@example.com",
+          "Phone": "+91-6722475945"
+        },
+        "Escalation": {
+          "Name": "Emma Smith",
+          "Email": "emma.smith@example.com",
+          "Phone": "+91-9829363022"
+        }
+      }
+    }
+  },
+  {
+    "Question": "Configure Log Forwarding",
+    "Answer": {
+      "Purpose": "This runbook provides detailed steps to perform the task: Configure Log Forwarding. It ensures operational consistency and minimizes downtime.",
+      "Prerequisites": [
+        "Administrative access to systems",
+        "Network connectivity",
+        "Required tools (SSH, CLI, monitoring dashboards)",
+        "Dependencies verified"
+      ],
+      "Steps": [
+        "Verify current system status using monitoring tools or CLI commands.",
+        "Notify stakeholders about the planned activity and expected impact.",
+        "Execute task-specific commands (e.g., sudo systemctl restart app.service).",
+        "Validate outcome by checking service status, logs, and application accessibility.",
+        "Update incident tracker with details of the operation."
+      ],
+      "ExpectedOutcome": "The task completes successfully without errors. Services remain stable and accessible.",
+      "RollbackPlan": [
+        "If the task fails:",
+        "Revert to previous configuration snapshot or backup.",
+        "Restart dependent services if necessary.",
+        "Escalate to Level 2 support for troubleshooting."
+      ],
+      "Contacts": {
+        "Primary": {
+          "Name": "Daniel Jones",
+          "Email": "daniel.jones@example.com",
+          "Phone": "+91-9693299925"
+        },
+        "Escalation": {
+          "Name": "Michael Johnson",
+          "Email": "michael.johnson@example.com",
+          "Phone": "+91-8623969427"
+        }
+      }
+    }
+  },
+  {
+    "Question": "Setup Backup for Kubernetes",
+    "Answer": {
+      "Purpose": "This runbook provides detailed steps to perform the task: Setup Backup for Kubernetes. It ensures operational consistency and minimizes downtime.",
+      "Prerequisites": [
+        "Administrative access to systems",
+        "Network connectivity",
+        "Required tools (SSH, CLI, monitoring dashboards)",
+        "Dependencies verified"
+      ],
+      "Steps": [
+        "Verify current system status using monitoring tools or CLI commands.",
+        "Notify stakeholders about the planned activity and expected impact.",
+        "Execute task-specific commands (e.g., sudo systemctl restart app.service).",
+        "Validate outcome by checking service status, logs, and application accessibility.",
+        "Update incident tracker with details of the operation."
+      ],
+      "ExpectedOutcome": "The task completes successfully without errors. Services remain stable and accessible.",
+      "RollbackPlan": [
+        "If the task fails:",
+        "Revert to previous configuration snapshot or backup.",
+        "Restart dependent services if necessary.",
+        "Escalate to Level 2 support for troubleshooting."
+      ],
+      "Contacts": {
+        "Primary": {
+          "Name": "Daniel Smith",
+          "Email": "daniel.smith@example.com",
+          "Phone": "+91-6466737219"
+        },
+        "Escalation": {
+          "Name": "Robert Brown",
+          "Email": "robert.brown@example.com",
+          "Phone": "+91-7146805102"
+        }
+      }
+    }
+  },
+  {
+    "Question": "Configure Persistent Volumes",
+    "Answer": {
+      "Purpose": "This runbook provides detailed steps to perform the task: Configure Persistent Volumes. It ensures operational consistency and minimizes downtime.",
+      "Prerequisites": [
+        "Administrative access to systems",
+        "Network connectivity",
+        "Required tools (SSH, CLI, monitoring dashboards)",
+        "Dependencies verified"
+      ],
+      "Steps": [
+        "Verify current system status using monitoring tools or CLI commands.",
+        "Notify stakeholders about the planned activity and expected impact.",
+        "Execute task-specific commands (e.g., sudo systemctl restart app.service).",
+        "Validate outcome by checking service status, logs, and application accessibility.",
+        "Update incident tracker with details of the operation."
+      ],
+      "ExpectedOutcome": "The task completes successfully without errors. Services remain stable and accessible.",
+      "RollbackPlan": [
+        "If the task fails:",
+        "Revert to previous configuration snapshot or backup.",
+        "Restart dependent services if necessary.",
+        "Escalate to Level 2 support for troubleshooting."
+      ],
+      "Contacts": {
+        "Primary": {
+          "Name": "Jane Martinez",
+          "Email": "jane.martinez@example.com",
+          "Phone": "+91-7219715489"
+        },
+        "Escalation": {
+          "Name": "Daniel Smith",
+          "Email": "daniel.smith@example.com",
+          "Phone": "+91-8280716247"
+        }
+      }
+    }
+  },
+  {
+    "Question": "Setup StatefulSets",
+    "Answer": {
+      "Purpose": "This runbook provides detailed steps to perform the task: Setup StatefulSets. It ensures operational consistency and minimizes downtime.",
+      "Prerequisites": [
+        "Administrative access to systems",
+        "Network connectivity",
+        "Required tools (SSH, CLI, monitoring dashboards)",
+        "Dependencies verified"
+      ],
+      "Steps": [
+        "Verify current system status using monitoring tools or CLI commands.",
+        "Notify stakeholders about the planned activity and expected impact.",
+        "Execute task-specific commands (e.g., sudo systemctl restart app.service).",
+        "Validate outcome by checking service status, logs, and application accessibility.",
+        "Update incident tracker with details of the operation."
+      ],
+      "ExpectedOutcome": "The task completes successfully without errors. Services remain stable and accessible.",
+      "RollbackPlan": [
+        "If the task fails:",
+        "Revert to previous configuration snapshot or backup.",
+        "Restart dependent services if necessary.",
+        "Escalate to Level 2 support for troubleshooting."
+      ],
+      "Contacts": {
+        "Primary": {
+          "Name": "Sophia Martinez",
+          "Email": "sophia.martinez@example.com",
+          "Phone": "+91-9437739684"
+        },
+        "Escalation": {
+          "Name": "Michael Garcia",
+          "Email": "michael.garcia@example.com",
+          "Phone": "+91-8420162620"
+        }
+      }
+    }
+  },
+  {
+    "Question": "Configure Helm Charts",
+    "Answer": {
+      "Purpose": "This runbook provides detailed steps to perform the task: Configure Helm Charts. It ensures operational consistency and minimizes downtime.",
+      "Prerequisites": [
+        "Administrative access to systems",
+        "Network connectivity",
+        "Required tools (SSH, CLI, monitoring dashboards)",
+        "Dependencies verified"
+      ],
+      "Steps": [
+        "Verify current system status using monitoring tools or CLI commands.",
+        "Notify stakeholders about the planned activity and expected impact.",
+        "Execute task-specific commands (e.g., sudo systemctl restart app.service).",
+        "Validate outcome by checking service status, logs, and application accessibility.",
+        "Update incident tracker with details of the operation."
+      ],
+      "ExpectedOutcome": "The task completes successfully without errors. Services remain stable and accessible.",
+      "RollbackPlan": [
+        "If the task fails:",
+        "Revert to previous configuration snapshot or backup.",
+        "Restart dependent services if necessary.",
+        "Escalate to Level 2 support for troubleshooting."
+      ],
+      "Contacts": {
+        "Primary": {
+          "Name": "Jane Smith",
+          "Email": "jane.smith@example.com",
+          "Phone": "+91-8180306063"
+        },
+        "Escalation": {
+          "Name": "Jane Smith",
+          "Email": "jane.smith@example.com",
+          "Phone": "+91-9333132552"
+        }
+      }
+    }
+  },
+  {
+    "Question": "Setup Secrets Management",
+    "Answer": {
+      "Purpose": "This runbook provides detailed steps to perform the task: Setup Secrets Management. It ensures operational consistency and minimizes downtime.",
+      "Prerequisites": [
+        "Administrative access to systems",
+        "Network connectivity",
+        "Required tools (SSH, CLI, monitoring dashboards)",
+        "Dependencies verified"
+      ],
+      "Steps": [
+        "Verify current system status using monitoring tools or CLI commands.",
+        "Notify stakeholders about the planned activity and expected impact.",
+        "Execute task-specific commands (e.g., sudo systemctl restart app.service).",
+        "Validate outcome by checking service status, logs, and application accessibility.",
+        "Update incident tracker with details of the operation."
+      ],
+      "ExpectedOutcome": "The task completes successfully without errors. Services remain stable and accessible.",
+      "RollbackPlan": [
+        "If the task fails:",
+        "Revert to previous configuration snapshot or backup.",
+        "Restart dependent services if necessary.",
+        "Escalate to Level 2 support for troubleshooting."
+      ],
+      "Contacts": {
+        "Primary": {
+          "Name": "Olivia Davis",
+          "Email": "olivia.davis@example.com",
+          "Phone": "+91-9460471687"
+        },
+        "Escalation": {
+          "Name": "Sophia Martinez",
+          "Email": "sophia.martinez@example.com",
+          "Phone": "+91-8041647695"
+        }
+      }
+    }
+  },
+  {
+    "Question": "Configure Vault Integration",
+    "Answer": {
+      "Purpose": "This runbook provides detailed steps to perform the task: Configure Vault Integration. It ensures operational consistency and minimizes downtime.",
+      "Prerequisites": [
+        "Administrative access to systems",
+        "Network connectivity",
+        "Required tools (SSH, CLI, monitoring dashboards)",
+        "Dependencies verified"
+      ],
+      "Steps": [
+        "Verify current system status using monitoring tools or CLI commands.",
+        "Notify stakeholders about the planned activity and expected impact.",
+        "Execute task-specific commands (e.g., sudo systemctl restart app.service).",
+        "Validate outcome by checking service status, logs, and application accessibility.",
+        "Update incident tracker with details of the operation."
+      ],
+      "ExpectedOutcome": "The task completes successfully without errors. Services remain stable and accessible.",
+      "RollbackPlan": [
+        "If the task fails:",
+        "Revert to previous configuration snapshot or backup.",
+        "Restart dependent services if necessary.",
+        "Escalate to Level 2 support for troubleshooting."
+      ],
+      "Contacts": {
+        "Primary": {
+          "Name": "Daniel Johnson",
+          "Email": "daniel.johnson@example.com",
+          "Phone": "+91-8348179123"
+        },
+        "Escalation": {
+          "Name": "Emma Taylor",
+          "Email": "emma.taylor@example.com",
+          "Phone": "+91-8419630426"
+        }
+      }
+    }
+  },
+  {
+    "Question": "Setup Certificate Rotation",
+    "Answer": {
+      "Purpose": "This runbook provides detailed steps to perform the task: Setup Certificate Rotation. It ensures operational consistency and minimizes downtime.",
+      "Prerequisites": [
+        "Administrative access to systems",
+        "Network connectivity",
+        "Required tools (SSH, CLI, monitoring dashboards)",
+        "Dependencies verified"
+      ],
+      "Steps": [
+        "Verify current system status using monitoring tools or CLI commands.",
+        "Notify stakeholders about the planned activity and expected impact.",
+        "Execute task-specific commands (e.g., sudo systemctl restart app.service).",
+        "Validate outcome by checking service status, logs, and application accessibility.",
+        "Update incident tracker with details of the operation."
+      ],
+      "ExpectedOutcome": "The task completes successfully without errors. Services remain stable and accessible.",
+      "RollbackPlan": [
+        "If the task fails:",
+        "Revert to previous configuration snapshot or backup.",
+        "Restart dependent services if necessary.",
+        "Escalate to Level 2 support for troubleshooting."
+      ],
+      "Contacts": {
+        "Primary": {
+          "Name": "Jane Miller",
+          "Email": "jane.miller@example.com",
+          "Phone": "+91-6640265457"
+        },
+        "Escalation": {
+          "Name": "David Johnson",
+          "Email": "david.johnson@example.com",
+          "Phone": "+91-6944846905"
+        }
+      }
+    }
+  },
+  {
+    "Question": "Configure API Rate Limiting",
+    "Answer": {
+      "Purpose": "This runbook provides detailed steps to perform the task: Configure API Rate Limiting. It ensures operational consistency and minimizes downtime.",
+      "Prerequisites": [
+        "Administrative access to systems",
+        "Network connectivity",
+        "Required tools (SSH, CLI, monitoring dashboards)",
+        "Dependencies verified"
+      ],
+      "Steps": [
+        "Verify current system status using monitoring tools or CLI commands.",
+        "Notify stakeholders about the planned activity and expected impact.",
+        "Execute task-specific commands (e.g., sudo systemctl restart app.service).",
+        "Validate outcome by checking service status, logs, and application accessibility.",
+        "Update incident tracker with details of the operation."
+      ],
+      "ExpectedOutcome": "The task completes successfully without errors. Services remain stable and accessible.",
+      "RollbackPlan": [
+        "If the task fails:",
+        "Revert to previous configuration snapshot or backup.",
+        "Restart dependent services if necessary.",
+        "Escalate to Level 2 support for troubleshooting."
+      ],
+      "Contacts": {
+        "Primary": {
+          "Name": "Jane Martinez",
+          "Email": "jane.martinez@example.com",
+          "Phone": "+91-9868869732"
+        },
+        "Escalation": {
+          "Name": "Emily Jones",
+          "Email": "emily.jones@example.com",
+          "Phone": "+91-8338284825"
+        }
+      }
+    }
+  },
+  {
+    "Question": "Setup OAuth Authentication",
+    "Answer": {
+      "Purpose": "This runbook provides detailed steps to perform the task: Setup OAuth Authentication. It ensures operational consistency and minimizes downtime.",
+      "Prerequisites": [
+        "Administrative access to systems",
+        "Network connectivity",
+        "Required tools (SSH, CLI, monitoring dashboards)",
+        "Dependencies verified"
+      ],
+      "Steps": [
+        "Verify current system status using monitoring tools or CLI commands.",
+        "Notify stakeholders about the planned activity and expected impact.",
+        "Execute task-specific commands (e.g., sudo systemctl restart app.service).",
+        "Validate outcome by checking service status, logs, and application accessibility.",
+        "Update incident tracker with details of the operation."
+      ],
+      "ExpectedOutcome": "The task completes successfully without errors. Services remain stable and accessible.",
+      "RollbackPlan": [
+        "If the task fails:",
+        "Revert to previous configuration snapshot or backup.",
+        "Restart dependent services if necessary.",
+        "Escalate to Level 2 support for troubleshooting."
+      ],
+      "Contacts": {
+        "Primary": {
+          "Name": "Emma Davis",
+          "Email": "emma.davis@example.com",
+          "Phone": "+91-7989307460"
+        },
+        "Escalation": {
+          "Name": "Michael Davis",
+          "Email": "michael.davis@example.com",
+          "Phone": "+91-6389901067"
+        }
+      }
+    }
+  },
+  {
+    "Question": "Configure SAML Authentication",
+    "Answer": {
+      "Purpose": "This runbook provides detailed steps to perform the task: Configure SAML Authentication. It ensures operational consistency and minimizes downtime.",
+      "Prerequisites": [
+        "Administrative access to systems",
+        "Network connectivity",
+        "Required tools (SSH, CLI, monitoring dashboards)",
+        "Dependencies verified"
+      ],
+      "Steps": [
+        "Verify current system status using monitoring tools or CLI commands.",
+        "Notify stakeholders about the planned activity and expected impact.",
+        "Execute task-specific commands (e.g., sudo systemctl restart app.service).",
+        "Validate outcome by checking service status, logs, and application accessibility.",
+        "Update incident tracker with details of the operation."
+      ],
+      "ExpectedOutcome": "The task completes successfully without errors. Services remain stable and accessible.",
+      "RollbackPlan": [
+        "If the task fails:",
+        "Revert to previous configuration snapshot or backup.",
+        "Restart dependent services if necessary.",
+        "Escalate to Level 2 support for troubleshooting."
+      ],
+      "Contacts": {
+        "Primary": {
+          "Name": "Michael Taylor",
+          "Email": "michael.taylor@example.com",
+          "Phone": "+91-6538404102"
+        },
+        "Escalation": {
+          "Name": "Olivia Jones",
+          "Email": "olivia.jones@example.com",
+          "Phone": "+91-8015298423"
+        }
+      }
+    }
+  },
+  {
+    "Question": "Setup LDAP Integration",
+    "Answer": {
+      "Purpose": "This runbook provides detailed steps to perform the task: Setup LDAP Integration. It ensures operational consistency and minimizes downtime.",
+      "Prerequisites": [
+        "Administrative access to systems",
+        "Network connectivity",
+        "Required tools (SSH, CLI, monitoring dashboards)",
+        "Dependencies verified"
+      ],
+      "Steps": [
+        "Verify current system status using monitoring tools or CLI commands.",
+        "Notify stakeholders about the planned activity and expected impact.",
+        "Execute task-specific commands (e.g., sudo systemctl restart app.service).",
+        "Validate outcome by checking service status, logs, and application accessibility.",
+        "Update incident tracker with details of the operation."
+      ],
+      "ExpectedOutcome": "The task completes successfully without errors. Services remain stable and accessible.",
+      "RollbackPlan": [
+        "If the task fails:",
+        "Revert to previous configuration snapshot or backup.",
+        "Restart dependent services if necessary.",
+        "Escalate to Level 2 support for troubleshooting."
+      ],
+      "Contacts": {
+        "Primary": {
+          "Name": "David Jones",
+          "Email": "david.jones@example.com",
+          "Phone": "+91-6029113456"
+        },
+        "Escalation": {
+          "Name": "Robert Davis",
+          "Email": "robert.davis@example.com",
+          "Phone": "+91-8103993000"
+        }
+      }
+    }
+  },
+  {
+    "Question": "Configure Single Sign-On",
+    "Answer": {
+      "Purpose": "This runbook provides detailed steps to perform the task: Configure Single Sign-On. It ensures operational consistency and minimizes downtime.",
+      "Prerequisites": [
+        "Administrative access to systems",
+        "Network connectivity",
+        "Required tools (SSH, CLI, monitoring dashboards)",
+        "Dependencies verified"
+      ],
+      "Steps": [
+        "Verify current system status using monitoring tools or CLI commands.",
+        "Notify stakeholders about the planned activity and expected impact.",
+        "Execute task-specific commands (e.g., sudo systemctl restart app.service).",
+        "Validate outcome by checking service status, logs, and application accessibility.",
+        "Update incident tracker with details of the operation."
+      ],
+      "ExpectedOutcome": "The task completes successfully without errors. Services remain stable and accessible.",
+      "RollbackPlan": [
+        "If the task fails:",
+        "Revert to previous configuration snapshot or backup.",
+        "Restart dependent services if necessary.",
+        "Escalate to Level 2 support for troubleshooting."
+      ],
+      "Contacts": {
+        "Primary": {
+          "Name": "Jane Brown",
+          "Email": "jane.brown@example.com",
+          "Phone": "+91-6412321915"
+        },
+        "Escalation": {
+          "Name": "Daniel Miller",
+          "Email": "daniel.miller@example.com",
+          "Phone": "+91-8909164352"
+        }
+      }
+    }
+  },
+  {
+    "Question": "Setup Monitoring Dashboards",
+    "Answer": {
+      "Purpose": "This runbook provides detailed steps to perform the task: Setup Monitoring Dashboards. It ensures operational consistency and minimizes downtime.",
+      "Prerequisites": [
+        "Administrative access to systems",
+        "Network connectivity",
+        "Required tools (SSH, CLI, monitoring dashboards)",
+        "Dependencies verified"
+      ],
+      "Steps": [
+        "Verify current system status using monitoring tools or CLI commands.",
+        "Notify stakeholders about the planned activity and expected impact.",
+        "Execute task-specific commands (e.g., sudo systemctl restart app.service).",
+        "Validate outcome by checking service status, logs, and application accessibility.",
+        "Update incident tracker with details of the operation."
+      ],
+      "ExpectedOutcome": "The task completes successfully without errors. Services remain stable and accessible.",
+      "RollbackPlan": [
+        "If the task fails:",
+        "Revert to previous configuration snapshot or backup.",
+        "Restart dependent services if necessary.",
+        "Escalate to Level 2 support for troubleshooting."
+      ],
+      "Contacts": {
+        "Primary": {
+          "Name": "Olivia Jones",
+          "Email": "olivia.jones@example.com",
+          "Phone": "+91-7137271021"
+        },
+        "Escalation": {
+          "Name": "Daniel Taylor",
+          "Email": "daniel.taylor@example.com",
+          "Phone": "+91-7457630841"
+        }
+      }
+    }
+  },
+  {
+    "Question": "Configure Alert Escalation",
+    "Answer": {
+      "Purpose": "This runbook provides detailed steps to perform the task: Configure Alert Escalation. It ensures operational consistency and minimizes downtime.",
+      "Prerequisites": [
+        "Administrative access to systems",
+        "Network connectivity",
+        "Required tools (SSH, CLI, monitoring dashboards)",
+        "Dependencies verified"
+      ],
+      "Steps": [
+        "Verify current system status using monitoring tools or CLI commands.",
+        "Notify stakeholders about the planned activity and expected impact.",
+        "Execute task-specific commands (e.g., sudo systemctl restart app.service).",
+        "Validate outcome by checking service status, logs, and application accessibility.",
+        "Update incident tracker with details of the operation."
+      ],
+      "ExpectedOutcome": "The task completes successfully without errors. Services remain stable and accessible.",
+      "RollbackPlan": [
+        "If the task fails:",
+        "Revert to previous configuration snapshot or backup.",
+        "Restart dependent services if necessary.",
+        "Escalate to Level 2 support for troubleshooting."
+      ],
+      "Contacts": {
+        "Primary": {
+          "Name": "Olivia Johnson",
+          "Email": "olivia.johnson@example.com",
+          "Phone": "+91-6618774206"
+        },
+        "Escalation": {
+          "Name": "Emily Taylor",
+          "Email": "emily.taylor@example.com",
+          "Phone": "+91-8724293959"
+        }
+      }
+    }
+  },
+  {
+    "Question": "Setup Incident Management Workflow",
+    "Answer": {
+      "Purpose": "This runbook provides detailed steps to perform the task: Setup Incident Management Workflow. It ensures operational consistency and minimizes downtime.",
+      "Prerequisites": [
+        "Administrative access to systems",
+        "Network connectivity",
+        "Required tools (SSH, CLI, monitoring dashboards)",
+        "Dependencies verified"
+      ],
+      "Steps": [
+        "Verify current system status using monitoring tools or CLI commands.",
+        "Notify stakeholders about the planned activity and expected impact.",
+        "Execute task-specific commands (e.g., sudo systemctl restart app.service).",
+        "Validate outcome by checking service status, logs, and application accessibility.",
+        "Update incident tracker with details of the operation."
+      ],
+      "ExpectedOutcome": "The task completes successfully without errors. Services remain stable and accessible.",
+      "RollbackPlan": [
+        "If the task fails:",
+        "Revert to previous configuration snapshot or backup.",
+        "Restart dependent services if necessary.",
+        "Escalate to Level 2 support for troubleshooting."
+      ],
+      "Contacts": {
+        "Primary": {
+          "Name": "Daniel Martinez",
+          "Email": "daniel.martinez@example.com",
+          "Phone": "+91-6688832118"
+        },
+        "Escalation": {
+          "Name": "David Martinez",
+          "Email": "david.martinez@example.com",
+          "Phone": "+91-6756770165"
+        }
+      }
+    }
+  },
+  {
+    "Question": "Configure Change Management Process",
+    "Answer": {
+      "Purpose": "This runbook provides detailed steps to perform the task: Configure Change Management Process. It ensures operational consistency and minimizes downtime.",
+      "Prerequisites": [
+        "Administrative access to systems",
+        "Network connectivity",
+        "Required tools (SSH, CLI, monitoring dashboards)",
+        "Dependencies verified"
+      ],
+      "Steps": [
+        "Verify current system status using monitoring tools or CLI commands.",
+        "Notify stakeholders about the planned activity and expected impact.",
+        "Execute task-specific commands (e.g., sudo systemctl restart app.service).",
+        "Validate outcome by checking service status, logs, and application accessibility.",
+        "Update incident tracker with details of the operation."
+      ],
+      "ExpectedOutcome": "The task completes successfully without errors. Services remain stable and accessible.",
+      "RollbackPlan": [
+        "If the task fails:",
+        "Revert to previous configuration snapshot or backup.",
+        "Restart dependent services if necessary.",
+        "Escalate to Level 2 support for troubleshooting."
+      ],
+      "Contacts": {
+        "Primary": {
+          "Name": "Emma Garcia",
+          "Email": "emma.garcia@example.com",
+          "Phone": "+91-7441694661"
+        },
+        "Escalation": {
+          "Name": "Michael Jones",
+          "Email": "michael.jones@example.com",
+          "Phone": "+91-7088783928"
+        }
+      }
+    }
+  },
+  {
+    "Question": "Setup Patch Management Automation",
+    "Answer": {
+      "Purpose": "This runbook provides detailed steps to perform the task: Setup Patch Management Automation. It ensures operational consistency and minimizes downtime.",
+      "Prerequisites": [
+        "Administrative access to systems",
+        "Network connectivity",
+        "Required tools (SSH, CLI, monitoring dashboards)",
+        "Dependencies verified"
+      ],
+      "Steps": [
+        "Verify current system status using monitoring tools or CLI commands.",
+        "Notify stakeholders about the planned activity and expected impact.",
+        "Execute task-specific commands (e.g., sudo systemctl restart app.service).",
+        "Validate outcome by checking service status, logs, and application accessibility.",
+        "Update incident tracker with details of the operation."
+      ],
+      "ExpectedOutcome": "The task completes successfully without errors. Services remain stable and accessible.",
+      "RollbackPlan": [
+        "If the task fails:",
+        "Revert to previous configuration snapshot or backup.",
+        "Restart dependent services if necessary.",
+        "Escalate to Level 2 support for troubleshooting."
+      ],
+      "Contacts": {
+        "Primary": {
+          "Name": "John Johnson",
+          "Email": "john.johnson@example.com",
+          "Phone": "+91-8106901702"
+        },
+        "Escalation": {
+          "Name": "Olivia Johnson",
+          "Email": "olivia.johnson@example.com",
+          "Phone": "+91-8674848694"
+        }
+      }
+    }
+  },
+  {
+    "Question": "Configure Compliance Checks",
+    "Answer": {
+      "Purpose": "This runbook provides detailed steps to perform the task: Configure Compliance Checks. It ensures operational consistency and minimizes downtime.",
+      "Prerequisites": [
+        "Administrative access to systems",
+        "Network connectivity",
+        "Required tools (SSH, CLI, monitoring dashboards)",
+        "Dependencies verified"
+      ],
+      "Steps": [
+        "Verify current system status using monitoring tools or CLI commands.",
+        "Notify stakeholders about the planned activity and expected impact.",
+        "Execute task-specific commands (e.g., sudo systemctl restart app.service).",
+        "Validate outcome by checking service status, logs, and application accessibility.",
+        "Update incident tracker with details of the operation."
+      ],
+      "ExpectedOutcome": "The task completes successfully without errors. Services remain stable and accessible.",
+      "RollbackPlan": [
+        "If the task fails:",
+        "Revert to previous configuration snapshot or backup.",
+        "Restart dependent services if necessary.",
+        "Escalate to Level 2 support for troubleshooting."
+      ],
+      "Contacts": {
+        "Primary": {
+          "Name": "Emily Jones",
+          "Email": "emily.jones@example.com",
+          "Phone": "+91-8673814086"
+        },
+        "Escalation": {
+          "Name": "Sophia Martinez",
+          "Email": "sophia.martinez@example.com",
+          "Phone": "+91-6818754247"
+        }
+      }
+    }
+  },
+  {
+    "Question": "Setup Vulnerability Scanning",
+    "Answer": {
+      "Purpose": "This runbook provides detailed steps to perform the task: Setup Vulnerability Scanning. It ensures operational consistency and minimizes downtime.",
+      "Prerequisites": [
+        "Administrative access to systems",
+        "Network connectivity",
+        "Required tools (SSH, CLI, monitoring dashboards)",
+        "Dependencies verified"
+      ],
+      "Steps": [
+        "Verify current system status using monitoring tools or CLI commands.",
+        "Notify stakeholders about the planned activity and expected impact.",
+        "Execute task-specific commands (e.g., sudo systemctl restart app.service).",
+        "Validate outcome by checking service status, logs, and application accessibility.",
+        "Update incident tracker with details of the operation."
+      ],
+      "ExpectedOutcome": "The task completes successfully without errors. Services remain stable and accessible.",
+      "RollbackPlan": [
+        "If the task fails:",
+        "Revert to previous configuration snapshot or backup.",
+        "Restart dependent services if necessary.",
+        "Escalate to Level 2 support for troubleshooting."
+      ],
+      "Contacts": {
+        "Primary": {
+          "Name": "Emily Williams",
+          "Email": "emily.williams@example.com",
+          "Phone": "+91-8391773283"
+        },
+        "Escalation": {
+          "Name": "Emily Miller",
+          "Email": "emily.miller@example.com",
+          "Phone": "+91-8999568959"
+        }
+      }
+    }
+  },
+  {
+    "Question": "Configure Penetration Testing Workflow",
+    "Answer": {
+      "Purpose": "This runbook provides detailed steps to perform the task: Configure Penetration Testing Workflow. It ensures operational consistency and minimizes downtime.",
+      "Prerequisites": [
+        "Administrative access to systems",
+        "Network connectivity",
+        "Required tools (SSH, CLI, monitoring dashboards)",
+        "Dependencies verified"
+      ],
+      "Steps": [
+        "Verify current system status using monitoring tools or CLI commands.",
+        "Notify stakeholders about the planned activity and expected impact.",
+        "Execute task-specific commands (e.g., sudo systemctl restart app.service).",
+        "Validate outcome by checking service status, logs, and application accessibility.",
+        "Update incident tracker with details of the operation."
+      ],
+      "ExpectedOutcome": "The task completes successfully without errors. Services remain stable and accessible.",
+      "RollbackPlan": [
+        "If the task fails:",
+        "Revert to previous configuration snapshot or backup.",
+        "Restart dependent services if necessary.",
+        "Escalate to Level 2 support for troubleshooting."
+      ],
+      "Contacts": {
+        "Primary": {
+          "Name": "Emily Smith",
+          "Email": "emily.smith@example.com",
+          "Phone": "+91-9629459869"
+        },
+        "Escalation": {
+          "Name": "Olivia Williams",
+          "Email": "olivia.williams@example.com",
+          "Phone": "+91-7884444403"
+        }
+      }
+    }
+  },
+  {
+    "Question": "Setup Backup Verification",
+    "Answer": {
+      "Purpose": "This runbook provides detailed steps to perform the task: Setup Backup Verification. It ensures operational consistency and minimizes downtime.",
+      "Prerequisites": [
+        "Administrative access to systems",
+        "Network connectivity",
+        "Required tools (SSH, CLI, monitoring dashboards)",
+        "Dependencies verified"
+      ],
+      "Steps": [
+        "Verify current system status using monitoring tools or CLI commands.",
+        "Notify stakeholders about the planned activity and expected impact.",
+        "Execute task-specific commands (e.g., sudo systemctl restart app.service).",
+        "Validate outcome by checking service status, logs, and application accessibility.",
+        "Update incident tracker with details of the operation."
+      ],
+      "ExpectedOutcome": "The task completes successfully without errors. Services remain stable and accessible.",
+      "RollbackPlan": [
+        "If the task fails:",
+        "Revert to previous configuration snapshot or backup.",
+        "Restart dependent services if necessary.",
+        "Escalate to Level 2 support for troubleshooting."
+      ],
+      "Contacts": {
+        "Primary": {
+          "Name": "Michael Johnson",
+          "Email": "michael.johnson@example.com",
+          "Phone": "+91-8369126402"
+        },
+        "Escalation": {
+          "Name": "John Johnson",
+          "Email": "john.johnson@example.com",
+          "Phone": "+91-7650240505"
+        }
+      }
+    }
+  }
+]
